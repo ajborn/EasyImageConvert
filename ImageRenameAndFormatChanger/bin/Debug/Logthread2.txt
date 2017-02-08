@@ -1,0 +1,1303 @@
+2/5/2017 9:32:52 PM Elapsed time: 00:00:00.0723788 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_186.jpeg
+ 2/5/2017 9:32:53 PM Elapsed time: 00:00:00.1559485 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_187.jpeg
+ 2/5/2017 9:32:53 PM Elapsed time: 00:00:00.2542167 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_188.jpeg
+ 2/5/2017 9:32:53 PM Elapsed time: 00:00:00.3410217 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_189.jpeg
+ 2/5/2017 9:32:53 PM Elapsed time: 00:00:00.4333938 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_190.jpeg
+ 2/5/2017 9:32:53 PM Elapsed time: 00:00:00.5293493 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_191.jpeg
+ 2/5/2017 9:32:53 PM Elapsed time: 00:00:00.6410317 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_192.jpeg
+ 2/5/2017 9:32:53 PM Elapsed time: 00:00:00.7346513 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_193.jpeg
+ 2/5/2017 9:32:53 PM Elapsed time: 00:00:00.8311756 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_194.jpeg
+ 2/5/2017 9:32:53 PM Elapsed time: 00:00:00.9335890 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_195.jpeg
+ 2/5/2017 9:32:53 PM Elapsed time: 00:00:01.0283770 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_196.jpeg
+ 2/5/2017 9:32:53 PM Elapsed time: 00:00:01.1267761 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_197.jpeg
+ 2/5/2017 9:32:54 PM Elapsed time: 00:00:01.2380300 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_198.jpeg
+ 2/5/2017 9:32:54 PM Elapsed time: 00:00:01.3526068 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_199.jpeg
+ 2/5/2017 9:32:54 PM Elapsed time: 00:00:01.4675784 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_200.jpeg
+ 2/5/2017 9:32:54 PM Elapsed time: 00:00:01.5806174 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_201.jpeg
+ 2/5/2017 9:32:54 PM Elapsed time: 00:00:01.6768824 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_202.jpeg
+ 2/5/2017 9:32:54 PM Elapsed time: 00:00:01.7843700 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_203.jpeg
+ 2/5/2017 9:32:54 PM Elapsed time: 00:00:01.9046625 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_204.jpeg
+ 2/5/2017 9:32:54 PM Elapsed time: 00:00:02.0223470 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_205.jpeg
+ 2/5/2017 9:32:54 PM Elapsed time: 00:00:02.1130060 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_206.jpeg
+ 2/5/2017 9:32:55 PM Elapsed time: 00:00:02.2224916 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_207.jpeg
+ 2/5/2017 9:32:55 PM Elapsed time: 00:00:02.3647373 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_208.jpeg
+ 2/5/2017 9:32:55 PM Elapsed time: 00:00:02.4835188 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_209.jpeg
+ 2/5/2017 9:32:55 PM Elapsed time: 00:00:02.6025915 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_210.jpeg
+ 2/5/2017 9:32:55 PM Elapsed time: 00:00:02.7016706 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_211.jpeg
+ 2/5/2017 9:32:55 PM Elapsed time: 00:00:02.8091702 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_212.jpeg
+ 2/5/2017 9:32:55 PM Elapsed time: 00:00:02.8579775 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_213.jpeg
+ 2/5/2017 9:32:55 PM Elapsed time: 00:00:02.8904502 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_214.jpeg
+ 2/5/2017 9:32:55 PM Elapsed time: 00:00:02.9337703 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_215.jpeg
+ 2/5/2017 9:32:55 PM Elapsed time: 00:00:03.0210765 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_216.jpeg
+ 2/5/2017 9:32:55 PM Elapsed time: 00:00:03.1347227 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_217.jpeg
+ 2/5/2017 9:32:56 PM Elapsed time: 00:00:03.2329037 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_218.jpeg
+ 2/5/2017 9:32:56 PM Elapsed time: 00:00:03.3260144 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_219.jpeg
+ 2/5/2017 9:32:56 PM Elapsed time: 00:00:03.4099126 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_220.jpeg
+ 2/5/2017 9:32:56 PM Elapsed time: 00:00:03.5047950 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_221.jpeg
+ 2/5/2017 9:32:56 PM Elapsed time: 00:00:03.7036776 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_222.jpeg
+ 2/5/2017 9:32:57 PM Elapsed time: 00:00:04.2192132 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_223.jpeg
+ 2/5/2017 9:32:57 PM Elapsed time: 00:00:04.3085695 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_224.jpeg
+ 2/5/2017 9:32:57 PM Elapsed time: 00:00:04.3614345 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_225.jpeg
+ 2/5/2017 9:32:57 PM Elapsed time: 00:00:04.4042675 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_226.jpeg
+ 2/5/2017 9:32:57 PM Elapsed time: 00:00:04.4480581 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_227.jpeg
+ 2/5/2017 9:32:57 PM Elapsed time: 00:00:04.5306061 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_228.jpeg
+ 2/5/2017 9:32:57 PM Elapsed time: 00:00:04.6217158 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_229.jpeg
+ 2/5/2017 9:32:57 PM Elapsed time: 00:00:04.7228947 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_230.jpeg
+ 2/5/2017 9:32:57 PM Elapsed time: 00:00:04.8414748 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_231.jpeg
+ 2/5/2017 9:32:57 PM Elapsed time: 00:00:04.9626708 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_232.jpeg
+ 2/5/2017 9:32:57 PM Elapsed time: 00:00:05.1186177 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_233.jpeg
+ 2/5/2017 9:32:58 PM Elapsed time: 00:00:05.2380078 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_234.jpeg
+ 2/5/2017 9:32:58 PM Elapsed time: 00:00:05.3329565 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_235.jpeg
+ 2/5/2017 9:32:58 PM Elapsed time: 00:00:05.4504166 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_236.jpeg
+ 2/5/2017 9:32:58 PM Elapsed time: 00:00:05.5288348 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_237.jpeg
+ 2/5/2017 9:32:58 PM Elapsed time: 00:00:05.6112186 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_238.jpeg
+ 2/5/2017 9:32:58 PM Elapsed time: 00:00:05.7002610 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_239.jpeg
+ 2/5/2017 9:32:58 PM Elapsed time: 00:00:05.7667776 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_240.jpeg
+ 2/5/2017 9:32:58 PM Elapsed time: 00:00:05.8335396 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_241.jpeg
+ 2/5/2017 9:32:58 PM Elapsed time: 00:00:05.9122533 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_242.jpeg
+ 2/5/2017 9:32:58 PM Elapsed time: 00:00:06.0162778 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_243.jpeg
+ 2/5/2017 9:32:58 PM Elapsed time: 00:00:06.1299629 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_244.jpeg
+ 2/5/2017 9:32:59 PM Elapsed time: 00:00:06.2132158 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_245.jpeg
+ 2/5/2017 9:32:59 PM Elapsed time: 00:00:06.2612948 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_246.jpeg
+ 2/5/2017 9:32:59 PM Elapsed time: 00:00:06.4943684 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_247.jpeg
+ 2/5/2017 9:32:59 PM Elapsed time: 00:00:06.5173907 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_248.jpeg
+ 2/5/2017 9:32:59 PM Elapsed time: 00:00:06.5864758 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_249.jpeg
+ 2/5/2017 9:32:59 PM Elapsed time: 00:00:06.6604862 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_250.jpeg
+ 2/5/2017 9:32:59 PM Elapsed time: 00:00:06.7332747 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_251.jpeg
+ 2/5/2017 9:32:59 PM Elapsed time: 00:00:06.8019501 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_252.jpeg
+ 2/5/2017 9:32:59 PM Elapsed time: 00:00:06.8808716 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_253.jpeg
+ 2/5/2017 9:32:59 PM Elapsed time: 00:00:06.9645016 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_254.jpeg
+ 2/5/2017 9:32:59 PM Elapsed time: 00:00:07.0773422 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_255.jpeg
+ 2/5/2017 9:33:00 PM Elapsed time: 00:00:07.1979173 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_256.jpeg
+ 2/5/2017 9:33:00 PM Elapsed time: 00:00:07.3177098 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_257.jpeg
+ 2/5/2017 9:33:00 PM Elapsed time: 00:00:07.4086634 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_258.jpeg
+ 2/5/2017 9:33:00 PM Elapsed time: 00:00:07.5003218 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_259.jpeg
+ 2/5/2017 9:33:00 PM Elapsed time: 00:00:07.6078765 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_260.jpeg
+ 2/5/2017 9:33:00 PM Elapsed time: 00:00:08.0968860 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_261.jpeg
+ 2/5/2017 9:33:01 PM Elapsed time: 00:00:08.2889556 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_262.jpeg
+ 2/5/2017 9:33:01 PM Elapsed time: 00:00:08.4135557 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_263.jpeg
+ 2/5/2017 9:33:01 PM Elapsed time: 00:00:08.5149642 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_264.jpeg
+ 2/5/2017 9:33:01 PM Elapsed time: 00:00:08.5875103 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_265.jpeg
+ 2/5/2017 9:33:01 PM Elapsed time: 00:00:08.6623807 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_266.jpeg
+ 2/5/2017 9:33:01 PM Elapsed time: 00:00:08.7495140 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_267.jpeg
+ 2/5/2017 9:33:01 PM Elapsed time: 00:00:08.9811468 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_268.jpeg
+ 2/5/2017 9:33:01 PM Elapsed time: 00:00:09.0694365 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_269.jpeg
+ 2/5/2017 9:33:02 PM Elapsed time: 00:00:09.1747871 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_270.jpeg
+ 2/5/2017 9:33:02 PM Elapsed time: 00:00:09.2714367 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_271.jpeg
+ 2/5/2017 9:33:02 PM Elapsed time: 00:00:09.7894412 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_272.jpeg
+ 2/5/2017 9:33:02 PM Elapsed time: 00:00:09.8714367 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_273.jpeg
+ 2/5/2017 9:33:02 PM Elapsed time: 00:00:09.9724278 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_274.jpeg
+ 2/5/2017 9:33:02 PM Elapsed time: 00:00:10.0861057 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_275.jpeg
+ 2/5/2017 9:33:03 PM Elapsed time: 00:00:10.1794041 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_276.jpeg
+ 2/5/2017 9:33:03 PM Elapsed time: 00:00:10.2574661 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_277.jpeg
+ 2/5/2017 9:33:03 PM Elapsed time: 00:00:10.3433079 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_278.jpeg
+ 2/5/2017 9:33:03 PM Elapsed time: 00:00:10.4613239 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_279.jpeg
+ 2/5/2017 9:33:03 PM Elapsed time: 00:00:10.5672318 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_280.jpeg
+ 2/5/2017 9:33:03 PM Elapsed time: 00:00:10.6870247 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_281.jpeg
+ 2/5/2017 9:33:03 PM Elapsed time: 00:00:10.8253821 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_282.jpeg
+ 2/5/2017 9:33:03 PM Elapsed time: 00:00:10.9335903 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_283.jpeg
+ 2/5/2017 9:33:03 PM Elapsed time: 00:00:11.0247231 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_284.jpeg
+ 2/5/2017 9:33:03 PM Elapsed time: 00:00:11.1152268 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_285.jpeg
+ 2/5/2017 9:33:04 PM Elapsed time: 00:00:11.2341170 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_286.jpeg
+ 2/5/2017 9:33:04 PM Elapsed time: 00:00:11.3482093 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_287.jpeg
+ 2/5/2017 9:33:04 PM Elapsed time: 00:00:11.5396420 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_288.jpeg
+ 2/5/2017 9:33:04 PM Elapsed time: 00:00:11.6107807 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_289.jpeg
+ 2/5/2017 9:33:04 PM Elapsed time: 00:00:11.6706917 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_290.jpeg
+ 2/5/2017 9:33:04 PM Elapsed time: 00:00:11.7897722 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_291.jpeg
+ 2/5/2017 9:33:04 PM Elapsed time: 00:00:11.9664543 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_292.jpeg
+ 2/5/2017 9:33:04 PM Elapsed time: 00:00:12.0462277 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_293.jpeg
+ 2/5/2017 9:33:05 PM Elapsed time: 00:00:12.1580487 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_294.jpeg
+ 2/5/2017 9:33:05 PM Elapsed time: 00:00:12.2466395 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_295.jpeg
+ 2/5/2017 9:33:05 PM Elapsed time: 00:00:12.3657491 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_296.jpeg
+ 2/5/2017 9:33:05 PM Elapsed time: 00:00:12.4890578 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_297.jpeg
+ 2/5/2017 9:33:05 PM Elapsed time: 00:00:12.6082708 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_298.jpeg
+ 2/5/2017 9:33:05 PM Elapsed time: 00:00:12.7289280 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_299.jpeg
+ 2/5/2017 9:33:05 PM Elapsed time: 00:00:12.8183660 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_300.jpeg
+ 2/5/2017 9:33:05 PM Elapsed time: 00:00:12.9045551 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_301.jpeg
+ 2/5/2017 9:33:05 PM Elapsed time: 00:00:12.9921974 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_302.jpeg
+ 2/5/2017 9:33:05 PM Elapsed time: 00:00:13.1026204 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_303.jpeg
+ 2/5/2017 9:33:06 PM Elapsed time: 00:00:13.2273643 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_304.jpeg
+ 2/5/2017 9:33:06 PM Elapsed time: 00:00:13.3014166 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_305.jpeg
+ 2/5/2017 9:33:06 PM Elapsed time: 00:00:13.4223800 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_306.jpeg
+ 2/5/2017 9:33:06 PM Elapsed time: 00:00:13.5266837 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_307.jpeg
+ 2/5/2017 9:33:06 PM Elapsed time: 00:00:13.6543164 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_308.jpeg
+ 2/5/2017 9:33:06 PM Elapsed time: 00:00:13.7782862 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_309.jpeg
+ 2/5/2017 9:33:06 PM Elapsed time: 00:00:13.8750303 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_310.jpeg
+ 2/5/2017 9:33:06 PM Elapsed time: 00:00:13.9575787 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_311.jpeg
+ 2/5/2017 9:33:06 PM Elapsed time: 00:00:14.0428984 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_312.jpeg
+ 2/5/2017 9:33:06 PM Elapsed time: 00:00:14.1241883 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_313.jpeg
+ 2/5/2017 9:33:07 PM Elapsed time: 00:00:14.2369078 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_314.jpeg
+ 2/5/2017 9:33:07 PM Elapsed time: 00:00:14.3503869 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_315.jpeg
+ 2/5/2017 9:33:07 PM Elapsed time: 00:00:14.4389336 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_316.jpeg
+ 2/5/2017 9:33:07 PM Elapsed time: 00:00:14.6780153 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_317.jpeg
+ 2/5/2017 9:33:07 PM Elapsed time: 00:00:15.1011929 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_318.jpeg
+ 2/5/2017 9:33:08 PM Elapsed time: 00:00:15.2195763 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_319.jpeg
+ 2/5/2017 9:33:08 PM Elapsed time: 00:00:15.3441504 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_320.jpeg
+ 2/5/2017 9:33:08 PM Elapsed time: 00:00:15.4558948 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_321.jpeg
+ 2/5/2017 9:33:08 PM Elapsed time: 00:00:15.5450048 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_322.jpeg
+ 2/5/2017 9:33:08 PM Elapsed time: 00:00:15.6443046 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_323.jpeg
+ 2/5/2017 9:33:08 PM Elapsed time: 00:00:15.7306215 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_324.jpeg
+ 2/5/2017 9:33:08 PM Elapsed time: 00:00:15.8509653 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_325.jpeg
+ 2/5/2017 9:33:08 PM Elapsed time: 00:00:16.1141709 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_326.jpeg
+ 2/5/2017 9:33:09 PM Elapsed time: 00:00:16.2228705 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_327.jpeg
+ 2/5/2017 9:33:09 PM Elapsed time: 00:00:16.3291260 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_328.jpeg
+ 2/5/2017 9:33:09 PM Elapsed time: 00:00:16.4152420 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_329.jpeg
+ 2/5/2017 9:33:09 PM Elapsed time: 00:00:16.5314135 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_330.jpeg
+ 2/5/2017 9:33:09 PM Elapsed time: 00:00:16.6550716 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_331.jpeg
+ 2/5/2017 9:33:09 PM Elapsed time: 00:00:16.7469862 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_332.jpeg
+ 2/5/2017 9:33:09 PM Elapsed time: 00:00:16.8111160 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_333.jpeg
+ 2/5/2017 9:33:09 PM Elapsed time: 00:00:16.8606709 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_334.jpeg
+ 2/5/2017 9:33:09 PM Elapsed time: 00:00:16.9153209 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_335.jpeg
+ 2/5/2017 9:33:09 PM Elapsed time: 00:00:17.0132265 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_336.jpeg
+ 2/5/2017 9:33:09 PM Elapsed time: 00:00:17.1285401 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_337.jpeg
+ 2/5/2017 9:33:10 PM Elapsed time: 00:00:17.3056456 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_338.jpeg
+ 2/5/2017 9:33:10 PM Elapsed time: 00:00:17.5569244 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_339.jpeg
+ 2/5/2017 9:33:10 PM Elapsed time: 00:00:17.6676378 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_340.jpeg
+ 2/5/2017 9:33:10 PM Elapsed time: 00:00:17.7830302 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_341.jpeg
+ 2/5/2017 9:33:10 PM Elapsed time: 00:00:17.9067276 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_342.jpeg
+ 2/5/2017 9:33:10 PM Elapsed time: 00:00:18.0232866 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_343.jpeg
+ 2/5/2017 9:33:10 PM Elapsed time: 00:00:18.1238753 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_344.jpeg
+ 2/5/2017 9:33:11 PM Elapsed time: 00:00:18.2060915 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_345.jpeg
+ 2/5/2017 9:33:11 PM Elapsed time: 00:00:18.3184141 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_346.jpeg
+ 2/5/2017 9:33:11 PM Elapsed time: 00:00:18.4345168 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_347.jpeg
+ 2/5/2017 9:33:11 PM Elapsed time: 00:00:18.5364487 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_348.jpeg
+ 2/5/2017 9:33:11 PM Elapsed time: 00:00:19.0573130 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_349.jpeg
+ 2/5/2017 9:33:11 PM Elapsed time: 00:00:19.1416798 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_350.jpeg
+ 2/5/2017 9:33:12 PM Elapsed time: 00:00:19.2112627 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_351.jpeg
+ 2/5/2017 9:33:12 PM Elapsed time: 00:00:19.2730126 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_352.jpeg
+ 2/5/2017 9:33:12 PM Elapsed time: 00:00:19.3484543 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_353.jpeg
+ 2/5/2017 9:33:12 PM Elapsed time: 00:00:19.4311396 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_354.jpeg
+ 2/5/2017 9:33:12 PM Elapsed time: 00:00:19.5224931 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_355.jpeg
+ 2/5/2017 9:33:12 PM Elapsed time: 00:00:19.6087049 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_356.jpeg
+ 2/5/2017 9:33:12 PM Elapsed time: 00:00:19.6907077 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_357.jpeg
+ 2/5/2017 9:33:12 PM Elapsed time: 00:00:19.7501367 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_358.jpeg
+ 2/5/2017 9:33:12 PM Elapsed time: 00:00:19.8104818 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_359.jpeg
+ 2/5/2017 9:33:12 PM Elapsed time: 00:00:19.8833674 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_360.jpeg
+ 2/5/2017 9:33:12 PM Elapsed time: 00:00:20.1051333 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_361.jpeg
+ 2/5/2017 9:33:13 PM Elapsed time: 00:00:20.2936204 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_362.jpeg
+ 2/5/2017 9:33:13 PM Elapsed time: 00:00:20.3762775 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_363.jpeg
+ 2/5/2017 9:33:13 PM Elapsed time: 00:00:20.4816414 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_364.jpeg
+ 2/5/2017 9:33:13 PM Elapsed time: 00:00:20.5550872 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_365.jpeg
+ 2/5/2017 9:33:13 PM Elapsed time: 00:00:20.6383405 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_366.jpeg
+ 2/5/2017 9:33:13 PM Elapsed time: 00:00:20.8670045 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_367.jpeg
+ 2/5/2017 9:33:13 PM Elapsed time: 00:00:20.9290182 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_368.jpeg
+ 2/5/2017 9:33:13 PM Elapsed time: 00:00:20.9812883 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123 - Copy (2).jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_369.jpeg
+ 2/5/2017 9:33:13 PM Elapsed time: 00:00:21.0353606 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123 - Copy.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_370.jpeg
+ 2/5/2017 9:33:13 PM Elapsed time: 00:00:21.0878732 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123.jpeg to C:\Users\Austin\Pictures\DEC2012\RenamedImages_371.jpeg
+ 2/5/2017 9:35:47 PM Elapsed time: 00:00:00.0705771 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062 - Copy (2).jpeg to yaymultithread_186.jpeg
+ 2/5/2017 9:35:47 PM Elapsed time: 00:00:00.3326490 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062 - Copy.jpeg to yaymultithread_187.jpeg
+ 2/5/2017 9:35:47 PM Elapsed time: 00:00:00.4174290 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062.jpeg to yaymultithread_188.jpeg
+ 2/5/2017 9:35:47 PM Elapsed time: 00:00:00.5204895 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063 - Copy (2).jpeg to yaymultithread_189.jpeg
+ 2/5/2017 9:35:47 PM Elapsed time: 00:00:00.6030701 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063 - Copy.jpeg to yaymultithread_190.jpeg
+ 2/5/2017 9:35:47 PM Elapsed time: 00:00:00.6860907 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063.jpeg to yaymultithread_191.jpeg
+ 2/5/2017 9:35:47 PM Elapsed time: 00:00:00.7776131 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064 - Copy (2).jpeg to yaymultithread_192.jpeg
+ 2/5/2017 9:35:47 PM Elapsed time: 00:00:00.8615091 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064 - Copy.jpeg to yaymultithread_193.jpeg
+ 2/5/2017 9:35:48 PM Elapsed time: 00:00:00.9682359 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064.jpeg to yaymultithread_194.jpeg
+ 2/5/2017 9:35:48 PM Elapsed time: 00:00:01.0664404 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065 - Copy (2).jpeg to yaymultithread_195.jpeg
+ 2/5/2017 9:35:48 PM Elapsed time: 00:00:01.1768472 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065 - Copy.jpeg to yaymultithread_196.jpeg
+ 2/5/2017 9:35:48 PM Elapsed time: 00:00:01.2784891 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065.jpeg to yaymultithread_197.jpeg
+ 2/5/2017 9:35:48 PM Elapsed time: 00:00:01.3957799 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066 - Copy (2).jpeg to yaymultithread_198.jpeg
+ 2/5/2017 9:35:48 PM Elapsed time: 00:00:01.5127537 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066 - Copy.jpeg to yaymultithread_199.jpeg
+ 2/5/2017 9:35:48 PM Elapsed time: 00:00:01.6193535 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066.jpeg to yaymultithread_200.jpeg
+ 2/5/2017 9:35:48 PM Elapsed time: 00:00:01.7074439 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067 - Copy (2).jpeg to yaymultithread_201.jpeg
+ 2/5/2017 9:35:48 PM Elapsed time: 00:00:01.7902597 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067 - Copy.jpeg to yaymultithread_202.jpeg
+ 2/5/2017 9:35:48 PM Elapsed time: 00:00:01.8774072 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067.jpeg to yaymultithread_203.jpeg
+ 2/5/2017 9:35:49 PM Elapsed time: 00:00:01.9853352 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068 - Copy (2).jpeg to yaymultithread_204.jpeg
+ 2/5/2017 9:35:49 PM Elapsed time: 00:00:02.1012664 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068 - Copy.jpeg to yaymultithread_205.jpeg
+ 2/5/2017 9:35:49 PM Elapsed time: 00:00:02.2234222 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068.jpeg to yaymultithread_206.jpeg
+ 2/5/2017 9:35:49 PM Elapsed time: 00:00:02.3293912 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069 - Copy (2).jpeg to yaymultithread_207.jpeg
+ 2/5/2017 9:35:49 PM Elapsed time: 00:00:02.4467259 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069 - Copy.jpeg to yaymultithread_208.jpeg
+ 2/5/2017 9:35:49 PM Elapsed time: 00:00:02.5448132 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069.jpeg to yaymultithread_209.jpeg
+ 2/5/2017 9:35:49 PM Elapsed time: 00:00:02.6388823 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070 - Copy (2).jpeg to yaymultithread_210.jpeg
+ 2/5/2017 9:35:49 PM Elapsed time: 00:00:02.7308409 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070 - Copy.jpeg to yaymultithread_211.jpeg
+ 2/5/2017 9:35:49 PM Elapsed time: 00:00:02.8198816 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070.jpeg to yaymultithread_212.jpeg
+ 2/5/2017 9:35:49 PM Elapsed time: 00:00:02.8677118 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071 - Copy (2).jpeg to yaymultithread_213.jpeg
+ 2/5/2017 9:35:50 PM Elapsed time: 00:00:02.9020751 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071 - Copy.jpeg to yaymultithread_214.jpeg
+ 2/5/2017 9:35:50 PM Elapsed time: 00:00:02.9370398 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071.jpeg to yaymultithread_215.jpeg
+ 2/5/2017 9:35:50 PM Elapsed time: 00:00:03.0129545 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072 - Copy (2).jpeg to yaymultithread_216.jpeg
+ 2/5/2017 9:35:50 PM Elapsed time: 00:00:03.1238124 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072 - Copy.jpeg to yaymultithread_217.jpeg
+ 2/5/2017 9:35:50 PM Elapsed time: 00:00:03.2131007 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072.jpeg to yaymultithread_218.jpeg
+ 2/5/2017 9:35:50 PM Elapsed time: 00:00:03.3168468 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073 - Copy (2).jpeg to yaymultithread_219.jpeg
+ 2/5/2017 9:35:50 PM Elapsed time: 00:00:03.3897456 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073 - Copy.jpeg to yaymultithread_220.jpeg
+ 2/5/2017 9:35:50 PM Elapsed time: 00:00:03.4667795 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073.jpeg to yaymultithread_221.jpeg
+ 2/5/2017 9:35:50 PM Elapsed time: 00:00:03.6794154 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074 - Copy (2).jpeg to yaymultithread_222.jpeg
+ 2/5/2017 9:35:50 PM Elapsed time: 00:00:03.7789414 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074 - Copy.jpeg to yaymultithread_223.jpeg
+ 2/5/2017 9:35:50 PM Elapsed time: 00:00:03.8706408 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074.jpeg to yaymultithread_224.jpeg
+ 2/5/2017 9:35:51 PM Elapsed time: 00:00:03.9182798 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075 - Copy (2).jpeg to yaymultithread_225.jpeg
+ 2/5/2017 9:35:51 PM Elapsed time: 00:00:03.9668340 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075 - Copy.jpeg to yaymultithread_226.jpeg
+ 2/5/2017 9:35:51 PM Elapsed time: 00:00:04.0101225 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075.jpeg to yaymultithread_227.jpeg
+ 2/5/2017 9:35:51 PM Elapsed time: 00:00:04.1010689 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076 - Copy (2).jpeg to yaymultithread_228.jpeg
+ 2/5/2017 9:35:51 PM Elapsed time: 00:00:04.2171305 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076 - Copy.jpeg to yaymultithread_229.jpeg
+ 2/5/2017 9:35:51 PM Elapsed time: 00:00:04.3244175 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076.jpeg to yaymultithread_230.jpeg
+ 2/5/2017 9:35:51 PM Elapsed time: 00:00:04.4316049 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077 - Copy (2).jpeg to yaymultithread_231.jpeg
+ 2/5/2017 9:35:51 PM Elapsed time: 00:00:04.5257381 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077 - Copy.jpeg to yaymultithread_232.jpeg
+ 2/5/2017 9:35:51 PM Elapsed time: 00:00:04.6329144 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077.jpeg to yaymultithread_233.jpeg
+ 2/5/2017 9:35:51 PM Elapsed time: 00:00:04.7188546 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078 - Copy (2).jpeg to yaymultithread_234.jpeg
+ 2/5/2017 9:35:51 PM Elapsed time: 00:00:04.7877365 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078 - Copy.jpeg to yaymultithread_235.jpeg
+ 2/5/2017 9:35:51 PM Elapsed time: 00:00:04.8853487 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078.jpeg to yaymultithread_236.jpeg
+ 2/5/2017 9:35:52 PM Elapsed time: 00:00:05.0646361 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079 - Copy (2).jpeg to yaymultithread_237.jpeg
+ 2/5/2017 9:35:52 PM Elapsed time: 00:00:05.1681679 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079 - Copy.jpeg to yaymultithread_238.jpeg
+ 2/5/2017 9:35:52 PM Elapsed time: 00:00:05.2799346 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079.jpeg to yaymultithread_239.jpeg
+ 2/5/2017 9:35:52 PM Elapsed time: 00:00:05.3628894 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080 - Copy (2).jpeg to yaymultithread_240.jpeg
+ 2/5/2017 9:35:52 PM Elapsed time: 00:00:05.4342068 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080 - Copy.jpeg to yaymultithread_241.jpeg
+ 2/5/2017 9:35:52 PM Elapsed time: 00:00:05.4924076 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080.jpeg to yaymultithread_242.jpeg
+ 2/5/2017 9:35:52 PM Elapsed time: 00:00:05.5865515 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081 - Copy (2).jpeg to yaymultithread_243.jpeg
+ 2/5/2017 9:35:52 PM Elapsed time: 00:00:05.6868096 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081 - Copy.jpeg to yaymultithread_244.jpeg
+ 2/5/2017 9:35:52 PM Elapsed time: 00:00:05.7715468 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081.jpeg to yaymultithread_245.jpeg
+ 2/5/2017 9:35:52 PM Elapsed time: 00:00:05.7999307 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082 - Copy (2).jpeg to yaymultithread_246.jpeg
+ 2/5/2017 9:35:52 PM Elapsed time: 00:00:05.8142883 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082 - Copy.jpeg to yaymultithread_247.jpeg
+ 2/5/2017 9:35:52 PM Elapsed time: 00:00:05.8287170 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082.jpeg to yaymultithread_248.jpeg
+ 2/5/2017 9:35:52 PM Elapsed time: 00:00:05.8826720 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083 - Copy (2).jpeg to yaymultithread_249.jpeg
+ 2/5/2017 9:35:53 PM Elapsed time: 00:00:05.9345487 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083 - Copy.jpeg to yaymultithread_250.jpeg
+ 2/5/2017 9:35:53 PM Elapsed time: 00:00:05.9866777 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083.jpeg to yaymultithread_251.jpeg
+ 2/5/2017 9:35:53 PM Elapsed time: 00:00:06.0561600 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084 - Copy (2).jpeg to yaymultithread_252.jpeg
+ 2/5/2017 9:35:53 PM Elapsed time: 00:00:06.1533403 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084 - Copy.jpeg to yaymultithread_253.jpeg
+ 2/5/2017 9:35:53 PM Elapsed time: 00:00:06.2811243 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084.jpeg to yaymultithread_254.jpeg
+ 2/5/2017 9:35:53 PM Elapsed time: 00:00:06.4601004 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085 - Copy (2).jpeg to yaymultithread_255.jpeg
+ 2/5/2017 9:35:54 PM Elapsed time: 00:00:06.9387718 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085 - Copy.jpeg to yaymultithread_256.jpeg
+ 2/5/2017 9:35:54 PM Elapsed time: 00:00:07.0537621 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085.jpeg to yaymultithread_257.jpeg
+ 2/5/2017 9:35:54 PM Elapsed time: 00:00:07.1750561 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086 - Copy (2).jpeg to yaymultithread_258.jpeg
+ 2/5/2017 9:35:54 PM Elapsed time: 00:00:07.2698261 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086 - Copy.jpeg to yaymultithread_259.jpeg
+ 2/5/2017 9:35:54 PM Elapsed time: 00:00:07.3612224 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086.jpeg to yaymultithread_260.jpeg
+ 2/5/2017 9:35:54 PM Elapsed time: 00:00:07.4503956 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087 - Copy (2).jpeg to yaymultithread_261.jpeg
+ 2/5/2017 9:35:54 PM Elapsed time: 00:00:07.5445554 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087 - Copy.jpeg to yaymultithread_262.jpeg
+ 2/5/2017 9:35:54 PM Elapsed time: 00:00:07.6908894 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087.jpeg to yaymultithread_263.jpeg
+ 2/5/2017 9:35:54 PM Elapsed time: 00:00:07.7627820 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088 - Copy (2).jpeg to yaymultithread_264.jpeg
+ 2/5/2017 9:35:54 PM Elapsed time: 00:00:07.8382327 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088 - Copy.jpeg to yaymultithread_265.jpeg
+ 2/5/2017 9:35:55 PM Elapsed time: 00:00:07.9219705 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088.jpeg to yaymultithread_266.jpeg
+ 2/5/2017 9:35:55 PM Elapsed time: 00:00:07.9909700 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089 - Copy (2).jpeg to yaymultithread_267.jpeg
+ 2/5/2017 9:35:55 PM Elapsed time: 00:00:08.0692445 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089 - Copy.jpeg to yaymultithread_268.jpeg
+ 2/5/2017 9:35:55 PM Elapsed time: 00:00:08.1507016 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089.jpeg to yaymultithread_269.jpeg
+ 2/5/2017 9:35:55 PM Elapsed time: 00:00:08.2571205 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090 - Copy (2).jpeg to yaymultithread_270.jpeg
+ 2/5/2017 9:35:55 PM Elapsed time: 00:00:08.3528228 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090 - Copy.jpeg to yaymultithread_271.jpeg
+ 2/5/2017 9:35:55 PM Elapsed time: 00:00:08.4485251 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090.jpeg to yaymultithread_272.jpeg
+ 2/5/2017 9:35:55 PM Elapsed time: 00:00:08.5469870 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091 - Copy (2).jpeg to yaymultithread_273.jpeg
+ 2/5/2017 9:35:55 PM Elapsed time: 00:00:08.6435219 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091 - Copy.jpeg to yaymultithread_274.jpeg
+ 2/5/2017 9:35:55 PM Elapsed time: 00:00:08.7280898 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091.jpeg to yaymultithread_275.jpeg
+ 2/5/2017 9:35:55 PM Elapsed time: 00:00:08.8084444 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092 - Copy (2).jpeg to yaymultithread_276.jpeg
+ 2/5/2017 9:35:56 PM Elapsed time: 00:00:08.8996781 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092 - Copy.jpeg to yaymultithread_277.jpeg
+ 2/5/2017 9:35:56 PM Elapsed time: 00:00:09.0365614 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092.jpeg to yaymultithread_278.jpeg
+ 2/5/2017 9:35:56 PM Elapsed time: 00:00:09.3469827 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093 - Copy (2).jpeg to yaymultithread_279.jpeg
+ 2/5/2017 9:35:56 PM Elapsed time: 00:00:09.4611157 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093 - Copy.jpeg to yaymultithread_280.jpeg
+ 2/5/2017 9:35:56 PM Elapsed time: 00:00:09.5734772 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093.jpeg to yaymultithread_281.jpeg
+ 2/5/2017 9:35:56 PM Elapsed time: 00:00:09.6726829 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094 - Copy (2).jpeg to yaymultithread_282.jpeg
+ 2/5/2017 9:35:56 PM Elapsed time: 00:00:09.7814851 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094 - Copy.jpeg to yaymultithread_283.jpeg
+ 2/5/2017 9:35:56 PM Elapsed time: 00:00:09.8701430 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094.jpeg to yaymultithread_284.jpeg
+ 2/5/2017 9:35:57 PM Elapsed time: 00:00:09.9596276 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095 - Copy (2).jpeg to yaymultithread_285.jpeg
+ 2/5/2017 9:35:57 PM Elapsed time: 00:00:10.0470651 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095 - Copy.jpeg to yaymultithread_286.jpeg
+ 2/5/2017 9:35:57 PM Elapsed time: 00:00:10.1528797 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095.jpeg to yaymultithread_287.jpeg
+ 2/5/2017 9:35:57 PM Elapsed time: 00:00:10.2125221 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096 - Copy (2).jpeg to yaymultithread_288.jpeg
+ 2/5/2017 9:35:57 PM Elapsed time: 00:00:10.2672889 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096 - Copy.jpeg to yaymultithread_289.jpeg
+ 2/5/2017 9:35:57 PM Elapsed time: 00:00:10.4987784 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096.jpeg to yaymultithread_290.jpeg
+ 2/5/2017 9:35:57 PM Elapsed time: 00:00:10.6125392 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097 - Copy (2).jpeg to yaymultithread_291.jpeg
+ 2/5/2017 9:35:57 PM Elapsed time: 00:00:10.6874100 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097 - Copy.jpeg to yaymultithread_292.jpeg
+ 2/5/2017 9:35:57 PM Elapsed time: 00:00:10.7637755 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097.jpeg to yaymultithread_293.jpeg
+ 2/5/2017 9:35:57 PM Elapsed time: 00:00:10.8603467 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098 - Copy (2).jpeg to yaymultithread_294.jpeg
+ 2/5/2017 9:35:58 PM Elapsed time: 00:00:10.9498839 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098 - Copy.jpeg to yaymultithread_295.jpeg
+ 2/5/2017 9:35:58 PM Elapsed time: 00:00:11.0470505 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098.jpeg to yaymultithread_296.jpeg
+ 2/5/2017 9:35:58 PM Elapsed time: 00:00:11.1468818 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099 - Copy (2).jpeg to yaymultithread_297.jpeg
+ 2/5/2017 9:35:58 PM Elapsed time: 00:00:11.2361436 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099 - Copy.jpeg to yaymultithread_298.jpeg
+ 2/5/2017 9:35:58 PM Elapsed time: 00:00:11.3237350 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099.jpeg to yaymultithread_299.jpeg
+ 2/5/2017 9:35:58 PM Elapsed time: 00:00:11.4120850 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100 - Copy (2).jpeg to yaymultithread_300.jpeg
+ 2/5/2017 9:35:58 PM Elapsed time: 00:00:11.4991017 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100 - Copy.jpeg to yaymultithread_301.jpeg
+ 2/5/2017 9:35:58 PM Elapsed time: 00:00:11.5969807 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100.jpeg to yaymultithread_302.jpeg
+ 2/5/2017 9:35:58 PM Elapsed time: 00:00:11.6819856 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101 - Copy (2).jpeg to yaymultithread_303.jpeg
+ 2/5/2017 9:35:59 PM Elapsed time: 00:00:12.0250259 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101 - Copy.jpeg to yaymultithread_304.jpeg
+ 2/5/2017 9:35:59 PM Elapsed time: 00:00:12.1321478 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101.jpeg to yaymultithread_305.jpeg
+ 2/5/2017 9:35:59 PM Elapsed time: 00:00:12.4242206 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102 - Copy (2).jpeg to yaymultithread_306.jpeg
+ 2/5/2017 9:35:59 PM Elapsed time: 00:00:12.5363038 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102 - Copy.jpeg to yaymultithread_307.jpeg
+ 2/5/2017 9:35:59 PM Elapsed time: 00:00:12.6442998 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102.jpeg to yaymultithread_308.jpeg
+ 2/5/2017 9:35:59 PM Elapsed time: 00:00:12.7328068 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103 - Copy (2).jpeg to yaymultithread_309.jpeg
+ 2/5/2017 9:35:59 PM Elapsed time: 00:00:12.8204320 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103 - Copy.jpeg to yaymultithread_310.jpeg
+ 2/5/2017 9:36:00 PM Elapsed time: 00:00:12.9244778 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103.jpeg to yaymultithread_311.jpeg
+ 2/5/2017 9:36:00 PM Elapsed time: 00:00:13.0210046 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104 - Copy (2).jpeg to yaymultithread_312.jpeg
+ 2/5/2017 9:36:00 PM Elapsed time: 00:00:13.2814917 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104 - Copy.jpeg to yaymultithread_313.jpeg
+ 2/5/2017 9:36:00 PM Elapsed time: 00:00:13.3977834 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104.jpeg to yaymultithread_314.jpeg
+ 2/5/2017 9:36:00 PM Elapsed time: 00:00:13.5052569 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105 - Copy (2).jpeg to yaymultithread_315.jpeg
+ 2/5/2017 9:36:00 PM Elapsed time: 00:00:13.6028400 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105 - Copy.jpeg to yaymultithread_316.jpeg
+ 2/5/2017 9:36:00 PM Elapsed time: 00:00:13.6805389 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105.jpeg to yaymultithread_317.jpeg
+ 2/5/2017 9:36:00 PM Elapsed time: 00:00:13.7659689 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106 - Copy (2).jpeg to yaymultithread_318.jpeg
+ 2/5/2017 9:36:00 PM Elapsed time: 00:00:13.8533576 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106 - Copy.jpeg to yaymultithread_319.jpeg
+ 2/5/2017 9:36:01 PM Elapsed time: 00:00:13.9627713 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106.jpeg to yaymultithread_320.jpeg
+ 2/5/2017 9:36:01 PM Elapsed time: 00:00:14.0678512 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107 - Copy (2).jpeg to yaymultithread_321.jpeg
+ 2/5/2017 9:36:01 PM Elapsed time: 00:00:14.1630318 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107 - Copy.jpeg to yaymultithread_322.jpeg
+ 2/5/2017 9:36:01 PM Elapsed time: 00:00:14.2549014 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107.jpeg to yaymultithread_323.jpeg
+ 2/5/2017 9:36:01 PM Elapsed time: 00:00:14.3415934 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108 - Copy (2).jpeg to yaymultithread_324.jpeg
+ 2/5/2017 9:36:01 PM Elapsed time: 00:00:14.4589688 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108 - Copy.jpeg to yaymultithread_325.jpeg
+ 2/5/2017 9:36:01 PM Elapsed time: 00:00:14.7453979 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108.jpeg to yaymultithread_326.jpeg
+ 2/5/2017 9:36:01 PM Elapsed time: 00:00:14.8347234 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109 - Copy (2).jpeg to yaymultithread_327.jpeg
+ 2/5/2017 9:36:02 PM Elapsed time: 00:00:14.9979006 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109 - Copy.jpeg to yaymultithread_328.jpeg
+ 2/5/2017 9:36:02 PM Elapsed time: 00:00:15.1121105 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109.jpeg to yaymultithread_329.jpeg
+ 2/5/2017 9:36:02 PM Elapsed time: 00:00:15.2175539 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110 - Copy (2).jpeg to yaymultithread_330.jpeg
+ 2/5/2017 9:36:02 PM Elapsed time: 00:00:15.3167347 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110 - Copy.jpeg to yaymultithread_331.jpeg
+ 2/5/2017 9:36:02 PM Elapsed time: 00:00:15.4033955 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110.jpeg to yaymultithread_332.jpeg
+ 2/5/2017 9:36:02 PM Elapsed time: 00:00:15.4793337 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111 - Copy (2).jpeg to yaymultithread_333.jpeg
+ 2/5/2017 9:36:02 PM Elapsed time: 00:00:15.5338841 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111 - Copy.jpeg to yaymultithread_334.jpeg
+ 2/5/2017 9:36:02 PM Elapsed time: 00:00:15.5986195 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111.jpeg to yaymultithread_335.jpeg
+ 2/5/2017 9:36:02 PM Elapsed time: 00:00:15.6761195 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112 - Copy (2).jpeg to yaymultithread_336.jpeg
+ 2/5/2017 9:36:02 PM Elapsed time: 00:00:15.7629407 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112 - Copy.jpeg to yaymultithread_337.jpeg
+ 2/5/2017 9:36:03 PM Elapsed time: 00:00:16.1069607 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112.jpeg to yaymultithread_338.jpeg
+ 2/5/2017 9:36:03 PM Elapsed time: 00:00:16.3244128 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113 - Copy (2).jpeg to yaymultithread_339.jpeg
+ 2/5/2017 9:36:03 PM Elapsed time: 00:00:16.4279373 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113 - Copy.jpeg to yaymultithread_340.jpeg
+ 2/5/2017 9:36:03 PM Elapsed time: 00:00:16.5167210 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113.jpeg to yaymultithread_341.jpeg
+ 2/5/2017 9:36:03 PM Elapsed time: 00:00:16.6299413 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114 - Copy (2).jpeg to yaymultithread_342.jpeg
+ 2/5/2017 9:36:03 PM Elapsed time: 00:00:16.7188281 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114 - Copy.jpeg to yaymultithread_343.jpeg
+ 2/5/2017 9:36:03 PM Elapsed time: 00:00:16.8034426 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114.jpeg to yaymultithread_344.jpeg
+ 2/5/2017 9:36:03 PM Elapsed time: 00:00:16.8825818 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115 - Copy (2).jpeg to yaymultithread_345.jpeg
+ 2/5/2017 9:36:04 PM Elapsed time: 00:00:16.9759816 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115 - Copy.jpeg to yaymultithread_346.jpeg
+ 2/5/2017 9:36:04 PM Elapsed time: 00:00:17.0667761 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115.jpeg to yaymultithread_347.jpeg
+ 2/5/2017 9:36:04 PM Elapsed time: 00:00:17.5033966 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116 - Copy (2).jpeg to yaymultithread_348.jpeg
+ 2/5/2017 9:36:04 PM Elapsed time: 00:00:17.6007406 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116 - Copy.jpeg to yaymultithread_349.jpeg
+ 2/5/2017 9:36:04 PM Elapsed time: 00:00:17.6835342 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116.jpeg to yaymultithread_350.jpeg
+ 2/5/2017 9:36:04 PM Elapsed time: 00:00:17.7530973 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117 - Copy (2).jpeg to yaymultithread_351.jpeg
+ 2/5/2017 9:36:04 PM Elapsed time: 00:00:17.8759467 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117 - Copy.jpeg to yaymultithread_352.jpeg
+ 2/5/2017 9:36:05 PM Elapsed time: 00:00:17.9342583 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117.jpeg to yaymultithread_353.jpeg
+ 2/5/2017 9:36:05 PM Elapsed time: 00:00:17.9908178 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118 - Copy (2).jpeg to yaymultithread_354.jpeg
+ 2/5/2017 9:36:05 PM Elapsed time: 00:00:18.0589102 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118 - Copy.jpeg to yaymultithread_355.jpeg
+ 2/5/2017 9:36:05 PM Elapsed time: 00:00:18.1268830 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118.jpeg to yaymultithread_356.jpeg
+ 2/5/2017 9:36:05 PM Elapsed time: 00:00:18.1923111 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119 - Copy (2).jpeg to yaymultithread_357.jpeg
+ 2/5/2017 9:36:05 PM Elapsed time: 00:00:18.2679171 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119 - Copy.jpeg to yaymultithread_358.jpeg
+ 2/5/2017 9:36:05 PM Elapsed time: 00:00:18.3472201 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119.jpeg to yaymultithread_359.jpeg
+ 2/5/2017 9:36:05 PM Elapsed time: 00:00:18.4321733 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120 - Copy (2).jpeg to yaymultithread_360.jpeg
+ 2/5/2017 9:36:05 PM Elapsed time: 00:00:18.5237273 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120 - Copy.jpeg to yaymultithread_361.jpeg
+ 2/5/2017 9:36:05 PM Elapsed time: 00:00:18.8224035 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120.jpeg to yaymultithread_362.jpeg
+ 2/5/2017 9:36:06 PM Elapsed time: 00:00:18.9187503 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121 - Copy (2).jpeg to yaymultithread_363.jpeg
+ 2/5/2017 9:36:06 PM Elapsed time: 00:00:19.0069049 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121 - Copy.jpeg to yaymultithread_364.jpeg
+ 2/5/2017 9:36:06 PM Elapsed time: 00:00:19.1154081 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121.jpeg to yaymultithread_365.jpeg
+ 2/5/2017 9:36:06 PM Elapsed time: 00:00:19.2080925 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122 - Copy (2).jpeg to yaymultithread_366.jpeg
+ 2/5/2017 9:36:06 PM Elapsed time: 00:00:19.2996820 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122 - Copy.jpeg to yaymultithread_367.jpeg
+ 2/5/2017 9:36:06 PM Elapsed time: 00:00:19.3855764 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122.jpeg to yaymultithread_368.jpeg
+ 2/5/2017 9:36:06 PM Elapsed time: 00:00:19.4788702 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123 - Copy (2).jpeg to yaymultithread_369.jpeg
+ 2/5/2017 9:36:06 PM Elapsed time: 00:00:19.5354810 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123 - Copy.jpeg to yaymultithread_370.jpeg
+ 2/5/2017 9:36:06 PM Elapsed time: 00:00:19.5938849 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123.jpeg to yaymultithread_371.jpeg
+ 2/5/2017 9:38:50 PM Elapsed time: 00:00:00.0743905 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062 - Copy (2).jpeg to MultithreadTest_186.png
+ 2/5/2017 9:38:52 PM Elapsed time: 00:00:01.5035514 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062 - Copy.jpeg to MultithreadTest_187.png
+ 2/5/2017 9:38:53 PM Elapsed time: 00:00:02.7226954 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062.jpeg to MultithreadTest_188.png
+ 2/5/2017 9:38:54 PM Elapsed time: 00:00:03.8306016 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063 - Copy (2).jpeg to MultithreadTest_189.png
+ 2/5/2017 9:38:55 PM Elapsed time: 00:00:04.8754947 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063 - Copy.jpeg to MultithreadTest_190.png
+ 2/5/2017 9:38:56 PM Elapsed time: 00:00:05.9105585 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063.jpeg to MultithreadTest_191.png
+ 2/5/2017 9:38:57 PM Elapsed time: 00:00:06.9325139 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064 - Copy (2).jpeg to MultithreadTest_192.png
+ 2/5/2017 9:38:58 PM Elapsed time: 00:00:08.0725503 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064 - Copy.jpeg to MultithreadTest_193.png
+ 2/5/2017 9:38:59 PM Elapsed time: 00:00:09.1855901 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064.jpeg to MultithreadTest_194.png
+ 2/5/2017 9:39:00 PM Elapsed time: 00:00:10.3171979 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065 - Copy (2).jpeg to MultithreadTest_195.png
+ 2/5/2017 9:39:01 PM Elapsed time: 00:00:11.1414031 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065 - Copy.jpeg to MultithreadTest_196.png
+ 2/5/2017 9:39:02 PM Elapsed time: 00:00:11.9490573 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065.jpeg to MultithreadTest_197.png
+ 2/5/2017 9:39:03 PM Elapsed time: 00:00:12.7846702 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066 - Copy (2).jpeg to MultithreadTest_198.png
+ 2/5/2017 9:39:04 PM Elapsed time: 00:00:13.9449976 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066 - Copy.jpeg to MultithreadTest_199.png
+ 2/5/2017 9:39:05 PM Elapsed time: 00:00:15.0255155 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066.jpeg to MultithreadTest_200.png
+ 2/5/2017 9:39:06 PM Elapsed time: 00:00:16.0962342 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067 - Copy (2).jpeg to MultithreadTest_201.png
+ 2/5/2017 9:39:07 PM Elapsed time: 00:00:17.0726957 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067 - Copy.jpeg to MultithreadTest_202.png
+ 2/5/2017 9:39:08 PM Elapsed time: 00:00:18.1228446 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067.jpeg to MultithreadTest_203.png
+ 2/5/2017 9:39:09 PM Elapsed time: 00:00:19.1015602 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068 - Copy (2).jpeg to MultithreadTest_204.png
+ 2/5/2017 9:39:10 PM Elapsed time: 00:00:20.1601314 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068 - Copy.jpeg to MultithreadTest_205.png
+ 2/5/2017 9:39:11 PM Elapsed time: 00:00:21.2610310 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068.jpeg to MultithreadTest_206.png
+ 2/5/2017 9:39:13 PM Elapsed time: 00:00:22.3892953 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069 - Copy (2).jpeg to MultithreadTest_207.png
+ 2/5/2017 9:39:14 PM Elapsed time: 00:00:23.6428334 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069 - Copy.jpeg to MultithreadTest_208.png
+ 2/5/2017 9:39:15 PM Elapsed time: 00:00:24.6389794 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069.jpeg to MultithreadTest_209.png
+ 2/5/2017 9:39:16 PM Elapsed time: 00:00:25.6771613 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070 - Copy (2).jpeg to MultithreadTest_210.png
+ 2/5/2017 9:39:17 PM Elapsed time: 00:00:26.7539304 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070 - Copy.jpeg to MultithreadTest_211.png
+ 2/5/2017 9:39:18 PM Elapsed time: 00:00:27.7662422 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070.jpeg to MultithreadTest_212.png
+ 2/5/2017 9:39:19 PM Elapsed time: 00:00:28.7538680 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071 - Copy (2).jpeg to MultithreadTest_213.png
+ 2/5/2017 9:39:19 PM Elapsed time: 00:00:29.1264523 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071 - Copy.jpeg to MultithreadTest_214.png
+ 2/5/2017 9:39:20 PM Elapsed time: 00:00:29.5172783 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071.jpeg to MultithreadTest_215.png
+ 2/5/2017 9:39:20 PM Elapsed time: 00:00:29.9476948 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072 - Copy (2).jpeg to MultithreadTest_216.png
+ 2/5/2017 9:39:22 PM Elapsed time: 00:00:31.6052058 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072 - Copy.jpeg to MultithreadTest_217.png
+ 2/5/2017 9:39:23 PM Elapsed time: 00:00:32.6286601 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072.jpeg to MultithreadTest_218.png
+ 2/5/2017 9:39:24 PM Elapsed time: 00:00:33.6484874 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073 - Copy (2).jpeg to MultithreadTest_219.png
+ 2/5/2017 9:39:25 PM Elapsed time: 00:00:34.5486168 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073 - Copy.jpeg to MultithreadTest_220.png
+ 2/5/2017 9:39:26 PM Elapsed time: 00:00:35.4480991 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073.jpeg to MultithreadTest_221.png
+ 2/5/2017 9:39:26 PM Elapsed time: 00:00:36.1533009 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074 - Copy (2).jpeg to MultithreadTest_222.png
+ 2/5/2017 9:39:27 PM Elapsed time: 00:00:36.9969730 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074 - Copy.jpeg to MultithreadTest_223.png
+ 2/5/2017 9:39:28 PM Elapsed time: 00:00:37.9231752 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074.jpeg to MultithreadTest_224.png
+ 2/5/2017 9:39:29 PM Elapsed time: 00:00:38.7758798 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075 - Copy (2).jpeg to MultithreadTest_225.png
+ 2/5/2017 9:39:29 PM Elapsed time: 00:00:39.2945074 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075 - Copy.jpeg to MultithreadTest_226.png
+ 2/5/2017 9:39:30 PM Elapsed time: 00:00:39.8577090 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075.jpeg to MultithreadTest_227.png
+ 2/5/2017 9:39:31 PM Elapsed time: 00:00:40.4134608 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076 - Copy (2).jpeg to MultithreadTest_228.png
+ 2/5/2017 9:39:32 PM Elapsed time: 00:00:41.4056672 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076 - Copy.jpeg to MultithreadTest_229.png
+ 2/5/2017 9:39:33 PM Elapsed time: 00:00:42.5412107 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076.jpeg to MultithreadTest_230.png
+ 2/5/2017 9:39:34 PM Elapsed time: 00:00:43.6884304 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077 - Copy (2).jpeg to MultithreadTest_231.png
+ 2/5/2017 9:39:35 PM Elapsed time: 00:00:44.7603598 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077 - Copy.jpeg to MultithreadTest_232.png
+ 2/5/2017 9:39:36 PM Elapsed time: 00:00:45.8174491 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077.jpeg to MultithreadTest_233.png
+ 2/5/2017 9:39:37 PM Elapsed time: 00:00:46.8743469 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078 - Copy (2).jpeg to MultithreadTest_234.png
+ 2/5/2017 9:39:38 PM Elapsed time: 00:00:47.3831409 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078 - Copy.jpeg to MultithreadTest_235.png
+ 2/5/2017 9:39:38 PM Elapsed time: 00:00:47.9420134 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078.jpeg to MultithreadTest_236.png
+ 2/5/2017 9:39:39 PM Elapsed time: 00:00:48.6048739 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079 - Copy (2).jpeg to MultithreadTest_237.png
+ 2/5/2017 9:39:40 PM Elapsed time: 00:00:49.4806890 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079 - Copy.jpeg to MultithreadTest_238.png
+ 2/5/2017 9:39:40 PM Elapsed time: 00:00:50.3395330 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079.jpeg to MultithreadTest_239.png
+ 2/5/2017 9:39:41 PM Elapsed time: 00:00:51.2540996 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080 - Copy (2).jpeg to MultithreadTest_240.png
+ 2/5/2017 9:39:42 PM Elapsed time: 00:00:51.5524537 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080 - Copy.jpeg to MultithreadTest_241.png
+ 2/5/2017 9:39:42 PM Elapsed time: 00:00:51.9339033 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080.jpeg to MultithreadTest_242.png
+ 2/5/2017 9:39:42 PM Elapsed time: 00:00:52.3000280 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081 - Copy (2).jpeg to MultithreadTest_243.png
+ 2/5/2017 9:39:43 PM Elapsed time: 00:00:53.1971372 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081 - Copy.jpeg to MultithreadTest_244.png
+ 2/5/2017 9:39:44 PM Elapsed time: 00:00:54.1115391 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081.jpeg to MultithreadTest_245.png
+ 2/5/2017 9:39:45 PM Elapsed time: 00:00:54.9234502 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082 - Copy (2).jpeg to MultithreadTest_246.png
+ 2/5/2017 9:39:45 PM Elapsed time: 00:00:55.1082338 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082 - Copy.jpeg to MultithreadTest_247.png
+ 2/5/2017 9:39:45 PM Elapsed time: 00:00:55.2559898 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082.jpeg to MultithreadTest_248.png
+ 2/5/2017 9:39:46 PM Elapsed time: 00:00:55.4374433 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083 - Copy (2).jpeg to MultithreadTest_249.png
+ 2/5/2017 9:39:46 PM Elapsed time: 00:00:55.7079404 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083 - Copy.jpeg to MultithreadTest_250.png
+ 2/5/2017 9:39:46 PM Elapsed time: 00:00:56.0213951 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083.jpeg to MultithreadTest_251.png
+ 2/5/2017 9:39:47 PM Elapsed time: 00:00:56.5809240 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084 - Copy (2).jpeg to MultithreadTest_252.png
+ 2/5/2017 9:39:47 PM Elapsed time: 00:00:57.3092503 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084 - Copy.jpeg to MultithreadTest_253.png
+ 2/5/2017 9:39:48 PM Elapsed time: 00:00:58.0350257 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084.jpeg to MultithreadTest_254.png
+ 2/5/2017 9:39:49 PM Elapsed time: 00:00:58.7220210 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085 - Copy (2).jpeg to MultithreadTest_255.png
+ 2/5/2017 9:39:50 PM Elapsed time: 00:00:59.8002843 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085 - Copy.jpeg to MultithreadTest_256.png
+ 2/5/2017 9:39:51 PM Elapsed time: 00:01:00.9723743 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085.jpeg to MultithreadTest_257.png
+ 2/5/2017 9:39:52 PM Elapsed time: 00:01:02.1168215 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086 - Copy (2).jpeg to MultithreadTest_258.png
+ 2/5/2017 9:39:53 PM Elapsed time: 00:01:03.1207192 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086 - Copy.jpeg to MultithreadTest_259.png
+ 2/5/2017 9:39:54 PM Elapsed time: 00:01:04.1251694 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086.jpeg to MultithreadTest_260.png
+ 2/5/2017 9:39:55 PM Elapsed time: 00:01:05.0086728 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087 - Copy (2).jpeg to MultithreadTest_261.png
+ 2/5/2017 9:39:56 PM Elapsed time: 00:01:06.1002674 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087 - Copy.jpeg to MultithreadTest_262.png
+ 2/5/2017 9:39:57 PM Elapsed time: 00:01:07.2218638 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087.jpeg to MultithreadTest_263.png
+ 2/5/2017 9:39:58 PM Elapsed time: 00:01:08.3578383 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088 - Copy (2).jpeg to MultithreadTest_264.png
+ 2/5/2017 9:39:59 PM Elapsed time: 00:01:08.9888168 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088 - Copy.jpeg to MultithreadTest_265.png
+ 2/5/2017 9:40:00 PM Elapsed time: 00:01:09.6297780 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088.jpeg to MultithreadTest_266.png
+ 2/5/2017 9:40:00 PM Elapsed time: 00:01:10.2245482 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089 - Copy (2).jpeg to MultithreadTest_267.png
+ 2/5/2017 9:40:01 PM Elapsed time: 00:01:10.7597983 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089 - Copy.jpeg to MultithreadTest_268.png
+ 2/5/2017 9:40:01 PM Elapsed time: 00:01:11.2881905 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089.jpeg to MultithreadTest_269.png
+ 2/5/2017 9:40:02 PM Elapsed time: 00:01:11.7824011 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090 - Copy (2).jpeg to MultithreadTest_270.png
+ 2/5/2017 9:40:03 PM Elapsed time: 00:01:12.8543993 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090 - Copy.jpeg to MultithreadTest_271.png
+ 2/5/2017 9:40:04 PM Elapsed time: 00:01:13.8839032 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090.jpeg to MultithreadTest_272.png
+ 2/5/2017 9:40:05 PM Elapsed time: 00:01:14.9600087 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091 - Copy (2).jpeg to MultithreadTest_273.png
+ 2/5/2017 9:40:06 PM Elapsed time: 00:01:16.1883181 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091 - Copy.jpeg to MultithreadTest_274.png
+ 2/5/2017 9:40:07 PM Elapsed time: 00:01:16.9868953 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091.jpeg to MultithreadTest_275.png
+ 2/5/2017 9:40:08 PM Elapsed time: 00:01:17.8539110 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092 - Copy (2).jpeg to MultithreadTest_276.png
+ 2/5/2017 9:40:09 PM Elapsed time: 00:01:18.5988915 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092 - Copy.jpeg to MultithreadTest_277.png
+ 2/5/2017 9:40:09 PM Elapsed time: 00:01:19.3620956 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092.jpeg to MultithreadTest_278.png
+ 2/5/2017 9:40:10 PM Elapsed time: 00:01:20.1288716 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093 - Copy (2).jpeg to MultithreadTest_279.png
+ 2/5/2017 9:40:11 PM Elapsed time: 00:01:20.8671366 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093 - Copy.jpeg to MultithreadTest_280.png
+ 2/5/2017 9:40:12 PM Elapsed time: 00:01:21.7185552 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093.jpeg to MultithreadTest_281.png
+ 2/5/2017 9:40:13 PM Elapsed time: 00:01:22.5781045 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094 - Copy (2).jpeg to MultithreadTest_282.png
+ 2/5/2017 9:40:14 PM Elapsed time: 00:01:23.7152157 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094 - Copy.jpeg to MultithreadTest_283.png
+ 2/5/2017 9:40:15 PM Elapsed time: 00:01:24.7653283 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094.jpeg to MultithreadTest_284.png
+ 2/5/2017 9:40:16 PM Elapsed time: 00:01:25.8219241 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095 - Copy (2).jpeg to MultithreadTest_285.png
+ 2/5/2017 9:40:17 PM Elapsed time: 00:01:26.7274988 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095 - Copy.jpeg to MultithreadTest_286.png
+ 2/5/2017 9:40:18 PM Elapsed time: 00:01:27.6943564 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095.jpeg to MultithreadTest_287.png
+ 2/5/2017 9:40:19 PM Elapsed time: 00:01:29.1533813 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096 - Copy (2).jpeg to MultithreadTest_288.png
+ 2/5/2017 9:40:20 PM Elapsed time: 00:01:29.4560420 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096 - Copy.jpeg to MultithreadTest_289.png
+ 2/5/2017 9:40:20 PM Elapsed time: 00:01:29.7530075 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096.jpeg to MultithreadTest_290.png
+ 2/5/2017 9:40:20 PM Elapsed time: 00:01:30.1409485 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097 - Copy (2).jpeg to MultithreadTest_291.png
+ 2/5/2017 9:40:21 PM Elapsed time: 00:01:30.8944800 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097 - Copy.jpeg to MultithreadTest_292.png
+ 2/5/2017 9:40:22 PM Elapsed time: 00:01:31.6476475 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097.jpeg to MultithreadTest_293.png
+ 2/5/2017 9:40:23 PM Elapsed time: 00:01:32.5790808 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098 - Copy (2).jpeg to MultithreadTest_294.png
+ 2/5/2017 9:40:24 PM Elapsed time: 00:01:33.6915078 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098 - Copy.jpeg to MultithreadTest_295.png
+ 2/5/2017 9:40:25 PM Elapsed time: 00:01:34.8055616 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098.jpeg to MultithreadTest_296.png
+ 2/5/2017 9:40:26 PM Elapsed time: 00:01:36.0945672 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099 - Copy (2).jpeg to MultithreadTest_297.png
+ 2/5/2017 9:40:27 PM Elapsed time: 00:01:37.2565487 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099 - Copy.jpeg to MultithreadTest_298.png
+ 2/5/2017 9:40:29 PM Elapsed time: 00:01:38.9130030 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099.jpeg to MultithreadTest_299.png
+ 2/5/2017 9:40:30 PM Elapsed time: 00:01:40.0417583 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100 - Copy (2).jpeg to MultithreadTest_300.png
+ 2/5/2017 9:40:31 PM Elapsed time: 00:01:40.7070051 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100 - Copy.jpeg to MultithreadTest_301.png
+ 2/5/2017 9:40:32 PM Elapsed time: 00:01:41.8715479 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100.jpeg to MultithreadTest_302.png
+ 2/5/2017 9:40:33 PM Elapsed time: 00:01:42.7083330 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101 - Copy (2).jpeg to MultithreadTest_303.png
+ 2/5/2017 9:40:34 PM Elapsed time: 00:01:43.6984431 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101 - Copy.jpeg to MultithreadTest_304.png
+ 2/5/2017 9:40:35 PM Elapsed time: 00:01:44.5255889 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101.jpeg to MultithreadTest_305.png
+ 2/5/2017 9:40:36 PM Elapsed time: 00:01:45.5530298 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102 - Copy (2).jpeg to MultithreadTest_306.png
+ 2/5/2017 9:40:37 PM Elapsed time: 00:01:47.0835239 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102 - Copy.jpeg to MultithreadTest_307.png
+ 2/5/2017 9:40:40 PM Elapsed time: 00:01:49.6941165 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102.jpeg to MultithreadTest_308.png
+ 2/5/2017 9:40:41 PM Elapsed time: 00:01:50.8000132 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103 - Copy (2).jpeg to MultithreadTest_309.png
+ 2/5/2017 9:40:43 PM Elapsed time: 00:01:52.6059225 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103 - Copy.jpeg to MultithreadTest_310.png
+ 2/5/2017 9:40:44 PM Elapsed time: 00:01:53.6628019 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103.jpeg to MultithreadTest_311.png
+ 2/5/2017 9:40:45 PM Elapsed time: 00:01:54.9804065 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104 - Copy (2).jpeg to MultithreadTest_312.png
+ 2/5/2017 9:40:46 PM Elapsed time: 00:01:55.9953483 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104 - Copy.jpeg to MultithreadTest_313.png
+ 2/5/2017 9:40:47 PM Elapsed time: 00:01:56.7551527 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104.jpeg to MultithreadTest_314.png
+ 2/5/2017 9:40:48 PM Elapsed time: 00:01:57.6304306 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105 - Copy (2).jpeg to MultithreadTest_315.png
+ 2/5/2017 9:40:48 PM Elapsed time: 00:01:58.3694504 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105 - Copy.jpeg to MultithreadTest_316.png
+ 2/5/2017 9:40:49 PM Elapsed time: 00:01:59.3320862 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105.jpeg to MultithreadTest_317.png
+ 2/5/2017 9:40:51 PM Elapsed time: 00:02:00.4162235 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106 - Copy (2).jpeg to MultithreadTest_318.png
+ 2/5/2017 9:40:53 PM Elapsed time: 00:02:02.4301184 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106 - Copy.jpeg to MultithreadTest_319.png
+ 2/5/2017 9:40:54 PM Elapsed time: 00:02:03.6975689 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106.jpeg to MultithreadTest_320.png
+ 2/5/2017 9:40:55 PM Elapsed time: 00:02:04.8783305 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107 - Copy (2).jpeg to MultithreadTest_321.png
+ 2/5/2017 9:40:56 PM Elapsed time: 00:02:05.7060600 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107 - Copy.jpeg to MultithreadTest_322.png
+ 2/5/2017 9:40:57 PM Elapsed time: 00:02:06.4558504 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107.jpeg to MultithreadTest_323.png
+ 2/5/2017 9:40:57 PM Elapsed time: 00:02:07.3655181 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108 - Copy (2).jpeg to MultithreadTest_324.png
+ 2/5/2017 9:40:59 PM Elapsed time: 00:02:08.6907213 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108 - Copy.jpeg to MultithreadTest_325.png
+ 2/5/2017 9:41:00 PM Elapsed time: 00:02:09.8757945 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108.jpeg to MultithreadTest_326.png
+ 2/5/2017 9:41:01 PM Elapsed time: 00:02:11.3077976 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109 - Copy (2).jpeg to MultithreadTest_327.png
+ 2/5/2017 9:41:03 PM Elapsed time: 00:02:12.7644298 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109 - Copy.jpeg to MultithreadTest_328.png
+ 2/5/2017 9:41:04 PM Elapsed time: 00:02:14.1923950 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109.jpeg to MultithreadTest_329.png
+ 2/5/2017 9:41:06 PM Elapsed time: 00:02:15.4338535 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110 - Copy (2).jpeg to MultithreadTest_330.png
+ 2/5/2017 9:41:08 PM Elapsed time: 00:02:17.5229678 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110 - Copy.jpeg to MultithreadTest_331.png
+ 2/5/2017 9:41:10 PM Elapsed time: 00:02:19.4820352 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110.jpeg to MultithreadTest_332.png
+ 2/5/2017 9:41:11 PM Elapsed time: 00:02:20.8089443 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111 - Copy (2).jpeg to MultithreadTest_333.png
+ 2/5/2017 9:41:11 PM Elapsed time: 00:02:21.1406599 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111 - Copy.jpeg to MultithreadTest_334.png
+ 2/5/2017 9:41:12 PM Elapsed time: 00:02:21.4740625 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111.jpeg to MultithreadTest_335.png
+ 2/5/2017 9:41:12 PM Elapsed time: 00:02:22.2758659 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112 - Copy (2).jpeg to MultithreadTest_336.png
+ 2/5/2017 9:41:14 PM Elapsed time: 00:02:23.5705371 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112 - Copy.jpeg to MultithreadTest_337.png
+ 2/5/2017 9:41:15 PM Elapsed time: 00:02:24.7390442 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112.jpeg to MultithreadTest_338.png
+ 2/5/2017 9:41:16 PM Elapsed time: 00:02:26.3019815 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113 - Copy (2).jpeg to MultithreadTest_339.png
+ 2/5/2017 9:41:18 PM Elapsed time: 00:02:27.6551790 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113 - Copy.jpeg to MultithreadTest_340.png
+ 2/5/2017 9:41:19 PM Elapsed time: 00:02:29.1256163 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113.jpeg to MultithreadTest_341.png
+ 2/5/2017 9:41:20 PM Elapsed time: 00:02:30.2783677 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114 - Copy (2).jpeg to MultithreadTest_342.png
+ 2/5/2017 9:41:22 PM Elapsed time: 00:02:31.7348882 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114 - Copy.jpeg to MultithreadTest_343.png
+ 2/5/2017 9:41:23 PM Elapsed time: 00:02:33.0577637 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114.jpeg to MultithreadTest_344.png
+ 2/5/2017 9:41:25 PM Elapsed time: 00:02:34.4034041 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115 - Copy (2).jpeg to MultithreadTest_345.png
+ 2/5/2017 9:41:26 PM Elapsed time: 00:02:35.7218183 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115 - Copy.jpeg to MultithreadTest_346.png
+ 2/5/2017 9:41:27 PM Elapsed time: 00:02:37.2116587 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115.jpeg to MultithreadTest_347.png
+ 2/5/2017 9:41:29 PM Elapsed time: 00:02:38.4818877 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116 - Copy (2).jpeg to MultithreadTest_348.png
+ 2/5/2017 9:41:29 PM Elapsed time: 00:02:39.1950289 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116 - Copy.jpeg to MultithreadTest_349.png
+ 2/5/2017 9:41:30 PM Elapsed time: 00:02:40.2510239 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116.jpeg to MultithreadTest_350.png
+ 2/5/2017 9:41:32 PM Elapsed time: 00:02:41.6238344 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117 - Copy (2).jpeg to MultithreadTest_351.png
+ 2/5/2017 9:41:32 PM Elapsed time: 00:02:42.1997023 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117 - Copy.jpeg to MultithreadTest_352.png
+ 2/5/2017 9:41:33 PM Elapsed time: 00:02:42.6863657 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117.jpeg to MultithreadTest_353.png
+ 2/5/2017 9:41:33 PM Elapsed time: 00:02:43.1187999 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118 - Copy (2).jpeg to MultithreadTest_354.png
+ 2/5/2017 9:41:34 PM Elapsed time: 00:02:43.8666358 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118 - Copy.jpeg to MultithreadTest_355.png
+ 2/5/2017 9:41:34 PM Elapsed time: 00:02:44.2761422 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118.jpeg to MultithreadTest_356.png
+ 2/5/2017 9:41:35 PM Elapsed time: 00:02:44.6935622 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119 - Copy (2).jpeg to MultithreadTest_357.png
+ 2/5/2017 9:41:35 PM Elapsed time: 00:02:45.3523169 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119 - Copy.jpeg to MultithreadTest_358.png
+ 2/5/2017 9:41:36 PM Elapsed time: 00:02:45.7785963 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119.jpeg to MultithreadTest_359.png
+ 2/5/2017 9:41:37 PM Elapsed time: 00:02:46.3988307 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120 - Copy (2).jpeg to MultithreadTest_360.png
+ 2/5/2017 9:41:37 PM Elapsed time: 00:02:47.1305604 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120 - Copy.jpeg to MultithreadTest_361.png
+ 2/5/2017 9:41:38 PM Elapsed time: 00:02:47.9885076 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120.jpeg to MultithreadTest_362.png
+ 2/5/2017 9:41:39 PM Elapsed time: 00:02:48.7525072 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121 - Copy (2).jpeg to MultithreadTest_363.png
+ 2/5/2017 9:41:40 PM Elapsed time: 00:02:49.8041704 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121 - Copy.jpeg to MultithreadTest_364.png
+ 2/5/2017 9:41:41 PM Elapsed time: 00:02:51.1822643 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121.jpeg to MultithreadTest_365.png
+ 2/5/2017 9:41:42 PM Elapsed time: 00:02:52.2819010 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122 - Copy (2).jpeg to MultithreadTest_366.png
+ 2/5/2017 9:41:43 PM Elapsed time: 00:02:52.8194925 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122 - Copy.jpeg to MultithreadTest_367.png
+ 2/5/2017 9:41:44 PM Elapsed time: 00:02:53.4895692 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122.jpeg to MultithreadTest_368.png
+ 2/5/2017 9:41:44 PM Elapsed time: 00:02:54.0639754 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123 - Copy (2).jpeg to MultithreadTest_369.png
+ 2/5/2017 9:41:45 PM Elapsed time: 00:02:54.8118571 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123 - Copy.jpeg to MultithreadTest_370.png
+ 2/5/2017 9:41:45 PM Elapsed time: 00:02:55.1820017 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123.jpeg to MultithreadTest_371.png
+ 2/5/2017 10:05:12 PM Elapsed time: 00:00:01.3980768 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062 - Copy (2).jpeg to adsda_186.jpeg
+ 2/5/2017 10:05:13 PM Elapsed time: 00:00:01.7254969 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062 - Copy.jpeg to adsda_187.jpeg
+ 2/5/2017 10:05:13 PM Elapsed time: 00:00:01.9826881 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062.jpeg to adsda_188.jpeg
+ 2/5/2017 10:05:13 PM Elapsed time: 00:00:02.1992272 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063 - Copy (2).jpeg to adsda_189.jpeg
+ 2/5/2017 10:05:13 PM Elapsed time: 00:00:02.4032813 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063 - Copy.jpeg to adsda_190.jpeg
+ 2/5/2017 10:05:14 PM Elapsed time: 00:00:02.7366237 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063.jpeg to adsda_191.jpeg
+ 2/5/2017 10:05:14 PM Elapsed time: 00:00:02.9700419 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064 - Copy (2).jpeg to adsda_192.jpeg
+ 2/5/2017 10:05:14 PM Elapsed time: 00:00:03.2641862 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064 - Copy.jpeg to adsda_193.jpeg
+ 2/5/2017 10:05:14 PM Elapsed time: 00:00:03.5760192 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064.jpeg to adsda_194.jpeg
+ 2/5/2017 10:05:15 PM Elapsed time: 00:00:03.8511936 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065 - Copy (2).jpeg to adsda_195.jpeg
+ 2/5/2017 10:05:15 PM Elapsed time: 00:00:04.1491988 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065 - Copy.jpeg to adsda_196.jpeg
+ 2/5/2017 10:05:15 PM Elapsed time: 00:00:04.4780183 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065.jpeg to adsda_197.jpeg
+ 2/5/2017 10:05:16 PM Elapsed time: 00:00:04.8287097 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066 - Copy (2).jpeg to adsda_198.jpeg
+ 2/5/2017 10:05:16 PM Elapsed time: 00:00:05.1218922 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066 - Copy.jpeg to adsda_199.jpeg
+ 2/5/2017 10:05:16 PM Elapsed time: 00:00:05.5563266 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066.jpeg to adsda_200.jpeg
+ 2/5/2017 10:05:17 PM Elapsed time: 00:00:05.7902811 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067 - Copy (2).jpeg to adsda_201.jpeg
+ 2/5/2017 10:05:17 PM Elapsed time: 00:00:06.1579782 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067 - Copy.jpeg to adsda_202.jpeg
+ 2/5/2017 10:05:17 PM Elapsed time: 00:00:06.6501326 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067.jpeg to adsda_203.jpeg
+ 2/5/2017 10:05:18 PM Elapsed time: 00:00:07.0651412 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068 - Copy (2).jpeg to adsda_204.jpeg
+ 2/5/2017 10:05:18 PM Elapsed time: 00:00:07.3786591 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068 - Copy.jpeg to adsda_205.jpeg
+ 2/5/2017 10:05:19 PM Elapsed time: 00:00:07.8122155 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068.jpeg to adsda_206.jpeg
+ 2/5/2017 10:05:19 PM Elapsed time: 00:00:08.2273840 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069 - Copy (2).jpeg to adsda_207.jpeg
+ 2/5/2017 10:05:20 PM Elapsed time: 00:00:09.0838772 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069 - Copy.jpeg to adsda_208.jpeg
+ 2/5/2017 10:05:20 PM Elapsed time: 00:00:09.4335991 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069.jpeg to adsda_209.jpeg
+ 2/5/2017 10:05:21 PM Elapsed time: 00:00:09.7815582 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070 - Copy (2).jpeg to adsda_210.jpeg
+ 2/5/2017 10:05:21 PM Elapsed time: 00:00:10.0969322 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070 - Copy.jpeg to adsda_211.jpeg
+ 2/5/2017 10:05:21 PM Elapsed time: 00:00:10.4191670 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070.jpeg to adsda_212.jpeg
+ 2/5/2017 10:05:21 PM Elapsed time: 00:00:10.5167531 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071 - Copy (2).jpeg to adsda_213.jpeg
+ 2/5/2017 10:05:22 PM Elapsed time: 00:00:10.7770268 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071 - Copy.jpeg to adsda_214.jpeg
+ 2/5/2017 10:05:22 PM Elapsed time: 00:00:11.0232002 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071.jpeg to adsda_215.jpeg
+ 2/5/2017 10:05:22 PM Elapsed time: 00:00:11.6177352 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072 - Copy (2).jpeg to adsda_216.jpeg
+ 2/5/2017 10:05:23 PM Elapsed time: 00:00:11.8068108 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072 - Copy.jpeg to adsda_217.jpeg
+ 2/5/2017 10:05:23 PM Elapsed time: 00:00:12.1135089 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072.jpeg to adsda_218.jpeg
+ 2/5/2017 10:05:23 PM Elapsed time: 00:00:12.4032193 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073 - Copy (2).jpeg to adsda_219.jpeg
+ 2/5/2017 10:05:23 PM Elapsed time: 00:00:12.5418654 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073 - Copy.jpeg to adsda_220.jpeg
+ 2/5/2017 10:05:24 PM Elapsed time: 00:00:12.8265509 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073.jpeg to adsda_221.jpeg
+ 2/5/2017 10:05:24 PM Elapsed time: 00:00:13.2662402 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074 - Copy (2).jpeg to adsda_222.jpeg
+ 2/5/2017 10:05:27 PM Elapsed time: 00:00:16.1392935 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074 - Copy.jpeg to adsda_223.jpeg
+ 2/5/2017 10:05:30 PM Elapsed time: 00:00:18.9365860 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074.jpeg to adsda_224.jpeg
+ 2/5/2017 10:05:30 PM Elapsed time: 00:00:19.4949008 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075 - Copy (2).jpeg to adsda_225.jpeg
+ 2/5/2017 10:05:31 PM Elapsed time: 00:00:20.5265656 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075 - Copy.jpeg to adsda_226.jpeg
+ 2/5/2017 10:05:32 PM Elapsed time: 00:00:20.7984745 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075.jpeg to adsda_227.jpeg
+ 2/5/2017 10:05:32 PM Elapsed time: 00:00:21.1673092 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076 - Copy (2).jpeg to adsda_228.jpeg
+ 2/5/2017 10:05:33 PM Elapsed time: 00:00:22.0391804 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076 - Copy.jpeg to adsda_229.jpeg
+ 2/5/2017 10:05:33 PM Elapsed time: 00:00:22.4220481 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076.jpeg to adsda_230.jpeg
+ 2/5/2017 10:05:34 PM Elapsed time: 00:00:22.9457673 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077 - Copy (2).jpeg to adsda_231.jpeg
+ 2/5/2017 10:05:35 PM Elapsed time: 00:00:23.7446661 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077 - Copy.jpeg to adsda_232.jpeg
+ 2/5/2017 10:05:35 PM Elapsed time: 00:00:24.4934451 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077.jpeg to adsda_233.jpeg
+ 2/5/2017 10:05:36 PM Elapsed time: 00:00:24.7664265 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078 - Copy (2).jpeg to adsda_234.jpeg
+ 2/5/2017 10:05:36 PM Elapsed time: 00:00:25.0493744 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078 - Copy.jpeg to adsda_235.jpeg
+ 2/5/2017 10:05:36 PM Elapsed time: 00:00:25.5235383 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078.jpeg to adsda_236.jpeg
+ 2/5/2017 10:05:37 PM Elapsed time: 00:00:26.6199073 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079 - Copy (2).jpeg to adsda_237.jpeg
+ 2/5/2017 10:05:38 PM Elapsed time: 00:00:26.9722828 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079 - Copy.jpeg to adsda_238.jpeg
+ 2/5/2017 10:05:38 PM Elapsed time: 00:00:27.5912989 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079.jpeg to adsda_239.jpeg
+ 2/5/2017 10:05:39 PM Elapsed time: 00:00:27.8532259 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080 - Copy (2).jpeg to adsda_240.jpeg
+ 2/5/2017 10:05:39 PM Elapsed time: 00:00:28.1579837 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080 - Copy.jpeg to adsda_241.jpeg
+ 2/5/2017 10:05:39 PM Elapsed time: 00:00:28.6540897 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080.jpeg to adsda_242.jpeg
+ 2/5/2017 10:05:40 PM Elapsed time: 00:00:29.0672093 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081 - Copy (2).jpeg to adsda_243.jpeg
+ 2/5/2017 10:05:40 PM Elapsed time: 00:00:29.4950847 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081 - Copy.jpeg to adsda_244.jpeg
+ 2/5/2017 10:05:42 PM Elapsed time: 00:00:30.6885625 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081.jpeg to adsda_245.jpeg
+ 2/5/2017 10:05:42 PM Elapsed time: 00:00:30.8827986 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082 - Copy (2).jpeg to adsda_246.jpeg
+ 2/5/2017 10:05:42 PM Elapsed time: 00:00:31.0463398 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082 - Copy.jpeg to adsda_247.jpeg
+ 2/5/2017 10:05:42 PM Elapsed time: 00:00:31.3942266 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082.jpeg to adsda_248.jpeg
+ 2/5/2017 10:05:43 PM Elapsed time: 00:00:31.6792367 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083 - Copy (2).jpeg to adsda_249.jpeg
+ 2/5/2017 10:05:43 PM Elapsed time: 00:00:32.1162711 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083 - Copy.jpeg to adsda_250.jpeg
+ 2/5/2017 10:05:43 PM Elapsed time: 00:00:32.3712881 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083.jpeg to adsda_251.jpeg
+ 2/5/2017 10:05:44 PM Elapsed time: 00:00:32.9908725 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084 - Copy (2).jpeg to adsda_252.jpeg
+ 2/5/2017 10:05:44 PM Elapsed time: 00:00:33.1852125 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084 - Copy.jpeg to adsda_253.jpeg
+ 2/5/2017 10:05:44 PM Elapsed time: 00:00:33.5298855 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084.jpeg to adsda_254.jpeg
+ 2/5/2017 10:05:45 PM Elapsed time: 00:00:34.2481633 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085 - Copy (2).jpeg to adsda_255.jpeg
+ 2/5/2017 10:05:45 PM Elapsed time: 00:00:34.5342994 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085 - Copy.jpeg to adsda_256.jpeg
+ 2/5/2017 10:05:46 PM Elapsed time: 00:00:34.8415847 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085.jpeg to adsda_257.jpeg
+ 2/5/2017 10:05:46 PM Elapsed time: 00:00:35.1429127 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086 - Copy (2).jpeg to adsda_258.jpeg
+ 2/5/2017 10:05:47 PM Elapsed time: 00:00:35.7761535 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086 - Copy.jpeg to adsda_259.jpeg
+ 2/5/2017 10:05:47 PM Elapsed time: 00:00:36.0512612 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086.jpeg to adsda_260.jpeg
+ 2/5/2017 10:05:47 PM Elapsed time: 00:00:36.4415898 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087 - Copy (2).jpeg to adsda_261.jpeg
+ 2/5/2017 10:05:48 PM Elapsed time: 00:00:37.5877412 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087 - Copy.jpeg to adsda_262.jpeg
+ 2/5/2017 10:05:49 PM Elapsed time: 00:00:38.1037528 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087.jpeg to adsda_263.jpeg
+ 2/5/2017 10:05:49 PM Elapsed time: 00:00:38.4417113 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088 - Copy (2).jpeg to adsda_264.jpeg
+ 2/5/2017 10:05:50 PM Elapsed time: 00:00:39.2000393 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088 - Copy.jpeg to adsda_265.jpeg
+ 2/5/2017 10:06:57 PM Elapsed time: 00:01:46.1476477 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088.jpeg to adsda_266.jpeg
+ 2/5/2017 10:06:57 PM Elapsed time: 00:01:46.4520477 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089 - Copy (2).jpeg to adsda_267.jpeg
+ 2/5/2017 10:06:58 PM Elapsed time: 00:01:46.6721034 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089 - Copy.jpeg to adsda_268.jpeg
+ 2/5/2017 10:06:58 PM Elapsed time: 00:01:46.9684309 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089.jpeg to adsda_269.jpeg
+ 2/5/2017 10:06:58 PM Elapsed time: 00:01:47.4508019 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090 - Copy (2).jpeg to adsda_270.jpeg
+ 2/5/2017 10:06:59 PM Elapsed time: 00:01:47.9102314 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090 - Copy.jpeg to adsda_271.jpeg
+ 2/5/2017 10:06:59 PM Elapsed time: 00:01:48.2213536 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090.jpeg to adsda_272.jpeg
+ 2/5/2017 10:06:59 PM Elapsed time: 00:01:48.5333423 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091 - Copy (2).jpeg to adsda_273.jpeg
+ 2/5/2017 10:07:00 PM Elapsed time: 00:01:48.9020597 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091 - Copy.jpeg to adsda_274.jpeg
+ 2/5/2017 10:07:00 PM Elapsed time: 00:01:49.3592030 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091.jpeg to adsda_275.jpeg
+ 2/5/2017 10:07:01 PM Elapsed time: 00:01:49.7763254 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092 - Copy (2).jpeg to adsda_276.jpeg
+ 2/5/2017 10:07:01 PM Elapsed time: 00:01:50.1193926 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092 - Copy.jpeg to adsda_277.jpeg
+ 2/5/2017 10:07:01 PM Elapsed time: 00:01:50.5370560 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092.jpeg to adsda_278.jpeg
+ 2/5/2017 10:07:02 PM Elapsed time: 00:01:50.7250958 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093 - Copy (2).jpeg to adsda_279.jpeg
+ 2/5/2017 10:07:02 PM Elapsed time: 00:01:51.5706953 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093 - Copy.jpeg to adsda_280.jpeg
+ 2/5/2017 10:07:03 PM Elapsed time: 00:01:51.9476037 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093.jpeg to adsda_281.jpeg
+ 2/5/2017 10:07:04 PM Elapsed time: 00:01:52.8259278 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094 - Copy (2).jpeg to adsda_282.jpeg
+ 2/5/2017 10:07:04 PM Elapsed time: 00:01:53.2930486 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094 - Copy.jpeg to adsda_283.jpeg
+ 2/5/2017 10:07:05 PM Elapsed time: 00:01:53.8428775 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094.jpeg to adsda_284.jpeg
+ 2/5/2017 10:07:05 PM Elapsed time: 00:01:54.2327934 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095 - Copy (2).jpeg to adsda_285.jpeg
+ 2/5/2017 10:07:06 PM Elapsed time: 00:01:54.9726241 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095 - Copy.jpeg to adsda_286.jpeg
+ 2/5/2017 10:07:06 PM Elapsed time: 00:01:55.3881278 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095.jpeg to adsda_287.jpeg
+ 2/5/2017 10:07:07 PM Elapsed time: 00:01:55.6806082 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096 - Copy (2).jpeg to adsda_288.jpeg
+ 2/5/2017 10:07:07 PM Elapsed time: 00:01:55.9182593 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096 - Copy.jpeg to adsda_289.jpeg
+ 2/5/2017 10:07:07 PM Elapsed time: 00:01:56.1722229 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096.jpeg to adsda_290.jpeg
+ 2/5/2017 10:07:08 PM Elapsed time: 00:01:56.8543993 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097 - Copy (2).jpeg to adsda_291.jpeg
+ 2/5/2017 10:07:08 PM Elapsed time: 00:01:57.1838671 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097 - Copy.jpeg to adsda_292.jpeg
+ 2/5/2017 10:07:09 PM Elapsed time: 00:01:57.6923413 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097.jpeg to adsda_293.jpeg
+ 2/5/2017 10:07:09 PM Elapsed time: 00:01:58.0286443 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098 - Copy (2).jpeg to adsda_294.jpeg
+ 2/5/2017 10:07:09 PM Elapsed time: 00:01:58.3621850 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098 - Copy.jpeg to adsda_295.jpeg
+ 2/5/2017 10:07:10 PM Elapsed time: 00:01:58.7559387 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098.jpeg to adsda_296.jpeg
+ 2/5/2017 10:07:10 PM Elapsed time: 00:01:59.4807702 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099 - Copy (2).jpeg to adsda_297.jpeg
+ 2/5/2017 10:07:11 PM Elapsed time: 00:02:00.2129656 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099 - Copy.jpeg to adsda_298.jpeg
+ 2/5/2017 10:07:12 PM Elapsed time: 00:02:00.6790498 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099.jpeg to adsda_299.jpeg
+ 2/5/2017 10:07:12 PM Elapsed time: 00:02:01.0330256 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100 - Copy (2).jpeg to adsda_300.jpeg
+ 2/5/2017 10:07:12 PM Elapsed time: 00:02:01.2636884 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100 - Copy.jpeg to adsda_301.jpeg
+ 2/5/2017 10:07:13 PM Elapsed time: 00:02:01.6889265 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100.jpeg to adsda_302.jpeg
+ 2/5/2017 10:07:13 PM Elapsed time: 00:02:02.2543065 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101 - Copy (2).jpeg to adsda_303.jpeg
+ 2/5/2017 10:07:13 PM Elapsed time: 00:02:02.5183175 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101 - Copy.jpeg to adsda_304.jpeg
+ 2/5/2017 10:07:14 PM Elapsed time: 00:02:02.8099374 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101.jpeg to adsda_305.jpeg
+ 2/5/2017 10:07:14 PM Elapsed time: 00:02:03.0711271 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102 - Copy (2).jpeg to adsda_306.jpeg
+ 2/5/2017 10:07:15 PM Elapsed time: 00:02:03.7130821 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102 - Copy.jpeg to adsda_307.jpeg
+ 2/5/2017 10:07:15 PM Elapsed time: 00:02:04.0562750 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102.jpeg to adsda_308.jpeg
+ 2/5/2017 10:07:15 PM Elapsed time: 00:02:04.3532141 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103 - Copy (2).jpeg to adsda_309.jpeg
+ 2/5/2017 10:07:16 PM Elapsed time: 00:02:05.0371507 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103 - Copy.jpeg to adsda_310.jpeg
+ 2/5/2017 10:07:16 PM Elapsed time: 00:02:05.3418188 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103.jpeg to adsda_311.jpeg
+ 2/5/2017 10:07:17 PM Elapsed time: 00:02:05.7054493 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104 - Copy (2).jpeg to adsda_312.jpeg
+ 2/5/2017 10:07:18 PM Elapsed time: 00:02:06.9205729 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104 - Copy.jpeg to adsda_313.jpeg
+ 2/5/2017 10:07:18 PM Elapsed time: 00:02:07.4942931 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104.jpeg to adsda_314.jpeg
+ 2/5/2017 10:07:19 PM Elapsed time: 00:02:07.8296103 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105 - Copy (2).jpeg to adsda_315.jpeg
+ 2/5/2017 10:07:19 PM Elapsed time: 00:02:07.9355567 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105 - Copy.jpeg to adsda_316.jpeg
+ 2/5/2017 10:07:19 PM Elapsed time: 00:02:08.0949962 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105.jpeg to adsda_317.jpeg
+ 2/5/2017 10:07:19 PM Elapsed time: 00:02:08.2242852 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106 - Copy (2).jpeg to adsda_318.jpeg
+ 2/5/2017 10:07:19 PM Elapsed time: 00:02:08.3266734 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106 - Copy.jpeg to adsda_319.jpeg
+ 2/5/2017 10:07:19 PM Elapsed time: 00:02:08.4741681 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106.jpeg to adsda_320.jpeg
+ 2/5/2017 10:07:20 PM Elapsed time: 00:02:08.8269460 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107 - Copy (2).jpeg to adsda_321.jpeg
+ 2/5/2017 10:07:20 PM Elapsed time: 00:02:08.9567807 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107 - Copy.jpeg to adsda_322.jpeg
+ 2/5/2017 10:07:20 PM Elapsed time: 00:02:09.0902843 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107.jpeg to adsda_323.jpeg
+ 2/5/2017 10:07:20 PM Elapsed time: 00:02:09.2306555 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108 - Copy (2).jpeg to adsda_324.jpeg
+ 2/5/2017 10:07:20 PM Elapsed time: 00:02:09.3769203 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108 - Copy.jpeg to adsda_325.jpeg
+ 2/5/2017 10:07:20 PM Elapsed time: 00:02:09.5337716 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108.jpeg to adsda_326.jpeg
+ 2/5/2017 10:07:21 PM Elapsed time: 00:02:09.6785730 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109 - Copy (2).jpeg to adsda_327.jpeg
+ 2/5/2017 10:07:21 PM Elapsed time: 00:02:09.8207121 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109 - Copy.jpeg to adsda_328.jpeg
+ 2/5/2017 10:07:21 PM Elapsed time: 00:02:10.2917678 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109.jpeg to adsda_329.jpeg
+ 2/5/2017 10:07:21 PM Elapsed time: 00:02:10.4047987 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110 - Copy (2).jpeg to adsda_330.jpeg
+ 2/5/2017 10:07:21 PM Elapsed time: 00:02:10.5630771 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110 - Copy.jpeg to adsda_331.jpeg
+ 2/5/2017 10:07:22 PM Elapsed time: 00:02:10.7055413 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110.jpeg to adsda_332.jpeg
+ 2/5/2017 10:07:22 PM Elapsed time: 00:02:10.8260129 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111 - Copy (2).jpeg to adsda_333.jpeg
+ 2/5/2017 10:07:22 PM Elapsed time: 00:02:10.9436671 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111 - Copy.jpeg to adsda_334.jpeg
+ 2/5/2017 10:07:22 PM Elapsed time: 00:02:11.0587875 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111.jpeg to adsda_335.jpeg
+ 2/5/2017 10:07:22 PM Elapsed time: 00:02:11.1813555 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112 - Copy (2).jpeg to adsda_336.jpeg
+ 2/5/2017 10:07:22 PM Elapsed time: 00:02:11.5376620 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112 - Copy.jpeg to adsda_337.jpeg
+ 2/5/2017 10:07:23 PM Elapsed time: 00:02:11.9964966 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112.jpeg to adsda_338.jpeg
+ 2/5/2017 10:07:23 PM Elapsed time: 00:02:12.2954948 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113 - Copy (2).jpeg to adsda_339.jpeg
+ 2/5/2017 10:07:23 PM Elapsed time: 00:02:12.3990702 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113 - Copy.jpeg to adsda_340.jpeg
+ 2/5/2017 10:07:23 PM Elapsed time: 00:02:12.5269215 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113.jpeg to adsda_341.jpeg
+ 2/5/2017 10:07:24 PM Elapsed time: 00:02:13.1173159 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114 - Copy (2).jpeg to adsda_342.jpeg
+ 2/5/2017 10:07:24 PM Elapsed time: 00:02:13.2298648 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114 - Copy.jpeg to adsda_343.jpeg
+ 2/5/2017 10:07:24 PM Elapsed time: 00:02:13.3272901 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114.jpeg to adsda_344.jpeg
+ 2/5/2017 10:07:24 PM Elapsed time: 00:02:13.3980580 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115 - Copy (2).jpeg to adsda_345.jpeg
+ 2/5/2017 10:07:24 PM Elapsed time: 00:02:13.5150040 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115 - Copy.jpeg to adsda_346.jpeg
+ 2/5/2017 10:07:24 PM Elapsed time: 00:02:13.6322883 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115.jpeg to adsda_347.jpeg
+ 2/5/2017 10:07:25 PM Elapsed time: 00:02:13.7309837 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116 - Copy (2).jpeg to adsda_348.jpeg
+ 2/5/2017 10:07:25 PM Elapsed time: 00:02:13.8305730 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116 - Copy.jpeg to adsda_349.jpeg
+ 2/5/2017 10:07:25 PM Elapsed time: 00:02:13.9317655 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116.jpeg to adsda_350.jpeg
+ 2/5/2017 10:07:26 PM Elapsed time: 00:02:14.7650832 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117 - Copy (2).jpeg to adsda_351.jpeg
+ 2/5/2017 10:07:26 PM Elapsed time: 00:02:15.1028496 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117 - Copy.jpeg to adsda_352.jpeg
+ 2/5/2017 10:07:26 PM Elapsed time: 00:02:15.1808410 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117.jpeg to adsda_353.jpeg
+ 2/5/2017 10:07:26 PM Elapsed time: 00:02:15.2607953 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118 - Copy (2).jpeg to adsda_354.jpeg
+ 2/5/2017 10:07:26 PM Elapsed time: 00:02:15.5643648 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118 - Copy.jpeg to adsda_355.jpeg
+ 2/5/2017 10:07:26 PM Elapsed time: 00:02:15.6166858 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118.jpeg to adsda_356.jpeg
+ 2/5/2017 10:07:27 PM Elapsed time: 00:02:15.6968642 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119 - Copy (2).jpeg to adsda_357.jpeg
+ 2/5/2017 10:07:27 PM Elapsed time: 00:02:15.7854986 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119 - Copy.jpeg to adsda_358.jpeg
+ 2/5/2017 10:07:27 PM Elapsed time: 00:02:15.8657724 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119.jpeg to adsda_359.jpeg
+ 2/5/2017 10:07:27 PM Elapsed time: 00:02:15.9619926 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120 - Copy (2).jpeg to adsda_360.jpeg
+ 2/5/2017 10:07:27 PM Elapsed time: 00:02:16.0602753 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120 - Copy.jpeg to adsda_361.jpeg
+ 2/5/2017 10:07:27 PM Elapsed time: 00:02:16.1676569 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120.jpeg to adsda_362.jpeg
+ 2/5/2017 10:07:27 PM Elapsed time: 00:02:16.2780157 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121 - Copy (2).jpeg to adsda_363.jpeg
+ 2/5/2017 10:07:27 PM Elapsed time: 00:02:16.4043317 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121 - Copy.jpeg to adsda_364.jpeg
+ 2/5/2017 10:07:27 PM Elapsed time: 00:02:16.4979222 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121.jpeg to adsda_365.jpeg
+ 2/5/2017 10:07:27 PM Elapsed time: 00:02:16.6122642 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122 - Copy (2).jpeg to adsda_366.jpeg
+ 2/5/2017 10:07:28 PM Elapsed time: 00:02:16.9030900 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122 - Copy.jpeg to adsda_367.jpeg
+ 2/5/2017 10:07:28 PM Elapsed time: 00:02:16.9811113 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122.jpeg to adsda_368.jpeg
+ 2/5/2017 10:07:28 PM Elapsed time: 00:02:17.0595928 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123 - Copy (2).jpeg to adsda_369.jpeg
+ 2/5/2017 10:07:28 PM Elapsed time: 00:02:17.1390361 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123 - Copy.jpeg to adsda_370.jpeg
+ 2/5/2017 10:07:28 PM Elapsed time: 00:02:17.2526464 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123.jpeg to adsda_371.jpeg
+ 2/5/2017 10:09:52 PM Elapsed time: 00:00:00.0716924 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062 - Copy (2).jpeg to helloo_186.jpeg
+ 2/5/2017 10:09:52 PM Elapsed time: 00:00:00.2263777 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062 - Copy.jpeg to helloo_187.jpeg
+ 2/5/2017 10:09:52 PM Elapsed time: 00:00:00.4743366 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062.jpeg to helloo_188.jpeg
+ 2/5/2017 10:09:52 PM Elapsed time: 00:00:00.6008129 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063 - Copy (2).jpeg to helloo_189.jpeg
+ 2/5/2017 10:09:52 PM Elapsed time: 00:00:00.7743663 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063 - Copy.jpeg to helloo_190.jpeg
+ 2/5/2017 10:09:53 PM Elapsed time: 00:00:00.9385139 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063.jpeg to helloo_191.jpeg
+ 2/5/2017 10:09:53 PM Elapsed time: 00:00:01.0682900 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064 - Copy (2).jpeg to helloo_192.jpeg
+ 2/5/2017 10:09:53 PM Elapsed time: 00:00:01.2102910 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064 - Copy.jpeg to helloo_193.jpeg
+ 2/5/2017 10:09:53 PM Elapsed time: 00:00:01.3551488 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064.jpeg to helloo_194.jpeg
+ 2/5/2017 10:09:53 PM Elapsed time: 00:00:01.4864303 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065 - Copy (2).jpeg to helloo_195.jpeg
+ 2/5/2017 10:09:53 PM Elapsed time: 00:00:01.5781511 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065 - Copy.jpeg to helloo_196.jpeg
+ 2/5/2017 10:09:54 PM Elapsed time: 00:00:02.0841735 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065.jpeg to helloo_197.jpeg
+ 2/5/2017 10:09:54 PM Elapsed time: 00:00:02.2203597 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066 - Copy (2).jpeg to helloo_198.jpeg
+ 2/5/2017 10:09:54 PM Elapsed time: 00:00:02.3371843 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066 - Copy.jpeg to helloo_199.jpeg
+ 2/5/2017 10:09:54 PM Elapsed time: 00:00:02.7356148 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066.jpeg to helloo_200.jpeg
+ 2/5/2017 10:09:55 PM Elapsed time: 00:00:02.8613740 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067 - Copy (2).jpeg to helloo_201.jpeg
+ 2/5/2017 10:09:55 PM Elapsed time: 00:00:03.0466117 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067 - Copy.jpeg to helloo_202.jpeg
+ 2/5/2017 10:09:55 PM Elapsed time: 00:00:03.1745190 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067.jpeg to helloo_203.jpeg
+ 2/5/2017 10:09:55 PM Elapsed time: 00:00:03.3788370 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068 - Copy (2).jpeg to helloo_204.jpeg
+ 2/5/2017 10:09:55 PM Elapsed time: 00:00:03.4972923 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068 - Copy.jpeg to helloo_205.jpeg
+ 2/5/2017 10:09:55 PM Elapsed time: 00:00:03.6181616 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068.jpeg to helloo_206.jpeg
+ 2/5/2017 10:09:55 PM Elapsed time: 00:00:03.7321333 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069 - Copy (2).jpeg to helloo_207.jpeg
+ 2/5/2017 10:09:56 PM Elapsed time: 00:00:03.8493055 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069 - Copy.jpeg to helloo_208.jpeg
+ 2/5/2017 10:09:56 PM Elapsed time: 00:00:03.9440482 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069.jpeg to helloo_209.jpeg
+ 2/5/2017 10:09:56 PM Elapsed time: 00:00:04.0435754 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070 - Copy (2).jpeg to helloo_210.jpeg
+ 2/5/2017 10:09:56 PM Elapsed time: 00:00:04.1600711 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070 - Copy.jpeg to helloo_211.jpeg
+ 2/5/2017 10:09:56 PM Elapsed time: 00:00:04.2781692 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070.jpeg to helloo_212.jpeg
+ 2/5/2017 10:09:56 PM Elapsed time: 00:00:04.3472295 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071 - Copy (2).jpeg to helloo_213.jpeg
+ 2/5/2017 10:09:57 PM Elapsed time: 00:00:04.9194704 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071 - Copy.jpeg to helloo_214.jpeg
+ 2/5/2017 10:09:57 PM Elapsed time: 00:00:05.0116659 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071.jpeg to helloo_215.jpeg
+ 2/5/2017 10:09:57 PM Elapsed time: 00:00:05.1067776 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072 - Copy (2).jpeg to helloo_216.jpeg
+ 2/5/2017 10:09:57 PM Elapsed time: 00:00:05.2779883 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072 - Copy.jpeg to helloo_217.jpeg
+ 2/5/2017 10:09:57 PM Elapsed time: 00:00:05.4105596 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072.jpeg to helloo_218.jpeg
+ 2/5/2017 10:09:57 PM Elapsed time: 00:00:05.5231465 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073 - Copy (2).jpeg to helloo_219.jpeg
+ 2/5/2017 10:09:57 PM Elapsed time: 00:00:05.6191396 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073 - Copy.jpeg to helloo_220.jpeg
+ 2/5/2017 10:09:58 PM Elapsed time: 00:00:06.0169932 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073.jpeg to helloo_221.jpeg
+ 2/5/2017 10:09:58 PM Elapsed time: 00:00:06.2774598 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074 - Copy (2).jpeg to helloo_222.jpeg
+ 2/5/2017 10:09:58 PM Elapsed time: 00:00:06.4127787 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074 - Copy.jpeg to helloo_223.jpeg
+ 2/5/2017 10:09:58 PM Elapsed time: 00:00:06.5350803 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074.jpeg to helloo_224.jpeg
+ 2/5/2017 10:09:58 PM Elapsed time: 00:00:06.6250896 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075 - Copy (2).jpeg to helloo_225.jpeg
+ 2/5/2017 10:09:58 PM Elapsed time: 00:00:06.7267406 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075 - Copy.jpeg to helloo_226.jpeg
+ 2/5/2017 10:09:58 PM Elapsed time: 00:00:06.7745374 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075.jpeg to helloo_227.jpeg
+ 2/5/2017 10:09:59 PM Elapsed time: 00:00:06.8498897 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076 - Copy (2).jpeg to helloo_228.jpeg
+ 2/5/2017 10:09:59 PM Elapsed time: 00:00:06.9759645 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076 - Copy.jpeg to helloo_229.jpeg
+ 2/5/2017 10:09:59 PM Elapsed time: 00:00:07.1253682 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076.jpeg to helloo_230.jpeg
+ 2/5/2017 10:09:59 PM Elapsed time: 00:00:07.4029020 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077 - Copy (2).jpeg to helloo_231.jpeg
+ 2/5/2017 10:09:59 PM Elapsed time: 00:00:07.5420074 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077 - Copy.jpeg to helloo_232.jpeg
+ 2/5/2017 10:09:59 PM Elapsed time: 00:00:07.6515721 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077.jpeg to helloo_233.jpeg
+ 2/5/2017 10:09:59 PM Elapsed time: 00:00:07.7244321 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078 - Copy (2).jpeg to helloo_234.jpeg
+ 2/5/2017 10:10:00 PM Elapsed time: 00:00:07.7990655 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078 - Copy.jpeg to helloo_235.jpeg
+ 2/5/2017 10:10:00 PM Elapsed time: 00:00:07.9169511 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078.jpeg to helloo_236.jpeg
+ 2/5/2017 10:10:00 PM Elapsed time: 00:00:08.0088781 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079 - Copy (2).jpeg to helloo_237.jpeg
+ 2/5/2017 10:10:00 PM Elapsed time: 00:00:08.1642754 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079 - Copy.jpeg to helloo_238.jpeg
+ 2/5/2017 10:10:00 PM Elapsed time: 00:00:08.5339658 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079.jpeg to helloo_239.jpeg
+ 2/5/2017 10:10:01 PM Elapsed time: 00:00:08.8950235 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080 - Copy (2).jpeg to helloo_240.jpeg
+ 2/5/2017 10:10:01 PM Elapsed time: 00:00:09.0047944 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080 - Copy.jpeg to helloo_241.jpeg
+ 2/5/2017 10:10:01 PM Elapsed time: 00:00:09.0719131 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080.jpeg to helloo_242.jpeg
+ 2/5/2017 10:10:01 PM Elapsed time: 00:00:09.1763690 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081 - Copy (2).jpeg to helloo_243.jpeg
+ 2/5/2017 10:10:01 PM Elapsed time: 00:00:09.2773871 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081 - Copy.jpeg to helloo_244.jpeg
+ 2/5/2017 10:10:01 PM Elapsed time: 00:00:09.3879722 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081.jpeg to helloo_245.jpeg
+ 2/5/2017 10:10:01 PM Elapsed time: 00:00:09.4290800 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082 - Copy (2).jpeg to helloo_246.jpeg
+ 2/5/2017 10:10:01 PM Elapsed time: 00:00:09.4879617 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082 - Copy.jpeg to helloo_247.jpeg
+ 2/5/2017 10:10:01 PM Elapsed time: 00:00:09.5235447 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082.jpeg to helloo_248.jpeg
+ 2/5/2017 10:10:01 PM Elapsed time: 00:00:09.5871143 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083 - Copy (2).jpeg to helloo_249.jpeg
+ 2/5/2017 10:10:01 PM Elapsed time: 00:00:09.6492649 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083 - Copy.jpeg to helloo_250.jpeg
+ 2/5/2017 10:10:01 PM Elapsed time: 00:00:09.7130086 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083.jpeg to helloo_251.jpeg
+ 2/5/2017 10:10:02 PM Elapsed time: 00:00:10.0517902 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084 - Copy (2).jpeg to helloo_252.jpeg
+ 2/5/2017 10:10:02 PM Elapsed time: 00:00:10.1597478 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084 - Copy.jpeg to helloo_253.jpeg
+ 2/5/2017 10:10:02 PM Elapsed time: 00:00:10.2489698 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084.jpeg to helloo_254.jpeg
+ 2/5/2017 10:10:02 PM Elapsed time: 00:00:10.3434589 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085 - Copy (2).jpeg to helloo_255.jpeg
+ 2/5/2017 10:10:02 PM Elapsed time: 00:00:10.5018703 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085 - Copy.jpeg to helloo_256.jpeg
+ 2/5/2017 10:10:02 PM Elapsed time: 00:00:10.6669356 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085.jpeg to helloo_257.jpeg
+ 2/5/2017 10:10:02 PM Elapsed time: 00:00:10.7837679 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086 - Copy (2).jpeg to helloo_258.jpeg
+ 2/5/2017 10:10:03 PM Elapsed time: 00:00:10.8791229 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086 - Copy.jpeg to helloo_259.jpeg
+ 2/5/2017 10:10:03 PM Elapsed time: 00:00:10.9639555 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086.jpeg to helloo_260.jpeg
+ 2/5/2017 10:10:03 PM Elapsed time: 00:00:11.0958994 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087 - Copy (2).jpeg to helloo_261.jpeg
+ 2/5/2017 10:10:04 PM Elapsed time: 00:00:11.8275294 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087 - Copy.jpeg to helloo_262.jpeg
+ 2/5/2017 10:10:04 PM Elapsed time: 00:00:11.9222250 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087.jpeg to helloo_263.jpeg
+ 2/5/2017 10:10:04 PM Elapsed time: 00:00:12.0794137 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088 - Copy (2).jpeg to helloo_264.jpeg
+ 2/5/2017 10:10:04 PM Elapsed time: 00:00:12.2091009 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088 - Copy.jpeg to helloo_265.jpeg
+ 2/5/2017 10:10:04 PM Elapsed time: 00:00:12.3237388 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088.jpeg to helloo_266.jpeg
+ 2/5/2017 10:10:04 PM Elapsed time: 00:00:12.4085642 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089 - Copy (2).jpeg to helloo_267.jpeg
+ 2/5/2017 10:10:04 PM Elapsed time: 00:00:12.4964263 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089 - Copy.jpeg to helloo_268.jpeg
+ 2/5/2017 10:10:04 PM Elapsed time: 00:00:12.7153367 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089.jpeg to helloo_269.jpeg
+ 2/5/2017 10:10:05 PM Elapsed time: 00:00:12.8034618 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090 - Copy (2).jpeg to helloo_270.jpeg
+ 2/5/2017 10:10:05 PM Elapsed time: 00:00:12.9208021 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090 - Copy.jpeg to helloo_271.jpeg
+ 2/5/2017 10:10:05 PM Elapsed time: 00:00:13.0496357 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090.jpeg to helloo_272.jpeg
+ 2/5/2017 10:10:05 PM Elapsed time: 00:00:13.1828510 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091 - Copy (2).jpeg to helloo_273.jpeg
+ 2/5/2017 10:10:06 PM Elapsed time: 00:00:13.8332984 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091 - Copy.jpeg to helloo_274.jpeg
+ 2/5/2017 10:10:06 PM Elapsed time: 00:00:14.2373466 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091.jpeg to helloo_275.jpeg
+ 2/5/2017 10:10:06 PM Elapsed time: 00:00:14.4424374 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092 - Copy (2).jpeg to helloo_276.jpeg
+ 2/5/2017 10:10:07 PM Elapsed time: 00:00:14.8386112 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092 - Copy.jpeg to helloo_277.jpeg
+ 2/5/2017 10:10:07 PM Elapsed time: 00:00:15.0188232 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092.jpeg to helloo_278.jpeg
+ 2/5/2017 10:10:07 PM Elapsed time: 00:00:15.1457904 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093 - Copy (2).jpeg to helloo_279.jpeg
+ 2/5/2017 10:10:07 PM Elapsed time: 00:00:15.3140311 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093 - Copy.jpeg to helloo_280.jpeg
+ 2/5/2017 10:10:07 PM Elapsed time: 00:00:15.5228352 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093.jpeg to helloo_281.jpeg
+ 2/5/2017 10:10:07 PM Elapsed time: 00:00:15.6436438 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094 - Copy (2).jpeg to helloo_282.jpeg
+ 2/5/2017 10:10:07 PM Elapsed time: 00:00:15.7517340 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094 - Copy.jpeg to helloo_283.jpeg
+ 2/5/2017 10:10:08 PM Elapsed time: 00:00:15.9085768 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094.jpeg to helloo_284.jpeg
+ 2/5/2017 10:10:08 PM Elapsed time: 00:00:16.0261604 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095 - Copy (2).jpeg to helloo_285.jpeg
+ 2/5/2017 10:10:08 PM Elapsed time: 00:00:16.1427301 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095 - Copy.jpeg to helloo_286.jpeg
+ 2/5/2017 10:10:08 PM Elapsed time: 00:00:16.2381433 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095.jpeg to helloo_287.jpeg
+ 2/5/2017 10:10:08 PM Elapsed time: 00:00:16.3215172 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096 - Copy (2).jpeg to helloo_288.jpeg
+ 2/5/2017 10:10:08 PM Elapsed time: 00:00:16.3758298 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096 - Copy.jpeg to helloo_289.jpeg
+ 2/5/2017 10:10:08 PM Elapsed time: 00:00:16.4310986 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096.jpeg to helloo_290.jpeg
+ 2/5/2017 10:10:08 PM Elapsed time: 00:00:16.5131441 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097 - Copy (2).jpeg to helloo_291.jpeg
+ 2/5/2017 10:10:08 PM Elapsed time: 00:00:16.6186812 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097 - Copy.jpeg to helloo_292.jpeg
+ 2/5/2017 10:10:09 PM Elapsed time: 00:00:16.8979055 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097.jpeg to helloo_293.jpeg
+ 2/5/2017 10:10:09 PM Elapsed time: 00:00:17.0263011 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098 - Copy (2).jpeg to helloo_294.jpeg
+ 2/5/2017 10:10:09 PM Elapsed time: 00:00:17.1554319 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098 - Copy.jpeg to helloo_295.jpeg
+ 2/5/2017 10:10:09 PM Elapsed time: 00:00:17.3013302 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098.jpeg to helloo_296.jpeg
+ 2/5/2017 10:10:09 PM Elapsed time: 00:00:17.3911342 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099 - Copy (2).jpeg to helloo_297.jpeg
+ 2/5/2017 10:10:09 PM Elapsed time: 00:00:17.5098024 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099 - Copy.jpeg to helloo_298.jpeg
+ 2/5/2017 10:10:09 PM Elapsed time: 00:00:17.6316776 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099.jpeg to helloo_299.jpeg
+ 2/5/2017 10:10:09 PM Elapsed time: 00:00:17.7428854 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100 - Copy (2).jpeg to helloo_300.jpeg
+ 2/5/2017 10:10:10 PM Elapsed time: 00:00:17.8399254 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100 - Copy.jpeg to helloo_301.jpeg
+ 2/5/2017 10:10:10 PM Elapsed time: 00:00:17.9290854 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100.jpeg to helloo_302.jpeg
+ 2/5/2017 10:10:11 PM Elapsed time: 00:00:18.8520815 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101 - Copy (2).jpeg to helloo_303.jpeg
+ 2/5/2017 10:10:11 PM Elapsed time: 00:00:18.9694137 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101 - Copy.jpeg to helloo_304.jpeg
+ 2/5/2017 10:10:11 PM Elapsed time: 00:00:19.0873749 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101.jpeg to helloo_305.jpeg
+ 2/5/2017 10:10:11 PM Elapsed time: 00:00:19.2217248 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102 - Copy (2).jpeg to helloo_306.jpeg
+ 2/5/2017 10:10:11 PM Elapsed time: 00:00:19.3473356 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102 - Copy.jpeg to helloo_307.jpeg
+ 2/5/2017 10:10:11 PM Elapsed time: 00:00:19.6206044 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102.jpeg to helloo_308.jpeg
+ 2/5/2017 10:10:12 PM Elapsed time: 00:00:20.1447726 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103 - Copy (2).jpeg to helloo_309.jpeg
+ 2/5/2017 10:10:12 PM Elapsed time: 00:00:20.2615895 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103 - Copy.jpeg to helloo_310.jpeg
+ 2/5/2017 10:10:12 PM Elapsed time: 00:00:20.3840600 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103.jpeg to helloo_311.jpeg
+ 2/5/2017 10:10:12 PM Elapsed time: 00:00:20.4926706 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104 - Copy (2).jpeg to helloo_312.jpeg
+ 2/5/2017 10:10:12 PM Elapsed time: 00:00:20.6055565 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104 - Copy.jpeg to helloo_313.jpeg
+ 2/5/2017 10:10:12 PM Elapsed time: 00:00:20.7302242 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104.jpeg to helloo_314.jpeg
+ 2/5/2017 10:10:13 PM Elapsed time: 00:00:20.8245734 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105 - Copy (2).jpeg to helloo_315.jpeg
+ 2/5/2017 10:10:13 PM Elapsed time: 00:00:21.0145928 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105 - Copy.jpeg to helloo_316.jpeg
+ 2/5/2017 10:10:13 PM Elapsed time: 00:00:21.2965071 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105.jpeg to helloo_317.jpeg
+ 2/5/2017 10:10:13 PM Elapsed time: 00:00:21.4212035 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106 - Copy (2).jpeg to helloo_318.jpeg
+ 2/5/2017 10:10:13 PM Elapsed time: 00:00:21.5124265 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106 - Copy.jpeg to helloo_319.jpeg
+ 2/5/2017 10:10:13 PM Elapsed time: 00:00:21.6402820 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106.jpeg to helloo_320.jpeg
+ 2/5/2017 10:10:13 PM Elapsed time: 00:00:21.7807042 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107 - Copy (2).jpeg to helloo_321.jpeg
+ 2/5/2017 10:10:14 PM Elapsed time: 00:00:21.9079682 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107 - Copy.jpeg to helloo_322.jpeg
+ 2/5/2017 10:10:14 PM Elapsed time: 00:00:22.0346443 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107.jpeg to helloo_323.jpeg
+ 2/5/2017 10:10:14 PM Elapsed time: 00:00:22.2706357 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108 - Copy (2).jpeg to helloo_324.jpeg
+ 2/5/2017 10:10:14 PM Elapsed time: 00:00:22.7495393 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108 - Copy.jpeg to helloo_325.jpeg
+ 2/5/2017 10:10:15 PM Elapsed time: 00:00:22.8728753 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108.jpeg to helloo_326.jpeg
+ 2/5/2017 10:10:15 PM Elapsed time: 00:00:22.9964650 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109 - Copy (2).jpeg to helloo_327.jpeg
+ 2/5/2017 10:10:15 PM Elapsed time: 00:00:23.1063350 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109 - Copy.jpeg to helloo_328.jpeg
+ 2/5/2017 10:10:15 PM Elapsed time: 00:00:23.2078414 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109.jpeg to helloo_329.jpeg
+ 2/5/2017 10:10:15 PM Elapsed time: 00:00:23.3298731 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110 - Copy (2).jpeg to helloo_330.jpeg
+ 2/5/2017 10:10:15 PM Elapsed time: 00:00:23.4128929 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110 - Copy.jpeg to helloo_331.jpeg
+ 2/5/2017 10:10:15 PM Elapsed time: 00:00:23.5083193 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110.jpeg to helloo_332.jpeg
+ 2/5/2017 10:10:15 PM Elapsed time: 00:00:23.6089200 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111 - Copy (2).jpeg to helloo_333.jpeg
+ 2/5/2017 10:10:15 PM Elapsed time: 00:00:23.7470101 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111 - Copy.jpeg to helloo_334.jpeg
+ 2/5/2017 10:10:16 PM Elapsed time: 00:00:23.9809257 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111.jpeg to helloo_335.jpeg
+ 2/5/2017 10:10:16 PM Elapsed time: 00:00:24.0670117 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112 - Copy (2).jpeg to helloo_336.jpeg
+ 2/5/2017 10:10:16 PM Elapsed time: 00:00:24.7180143 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112 - Copy.jpeg to helloo_337.jpeg
+ 2/5/2017 10:10:17 PM Elapsed time: 00:00:25.3784842 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112.jpeg to helloo_338.jpeg
+ 2/5/2017 10:10:17 PM Elapsed time: 00:00:25.4767965 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113 - Copy (2).jpeg to helloo_339.jpeg
+ 2/5/2017 10:10:17 PM Elapsed time: 00:00:25.5629026 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113 - Copy.jpeg to helloo_340.jpeg
+ 2/5/2017 10:10:17 PM Elapsed time: 00:00:25.6657942 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113.jpeg to helloo_341.jpeg
+ 2/5/2017 10:10:17 PM Elapsed time: 00:00:25.7599129 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114 - Copy (2).jpeg to helloo_342.jpeg
+ 2/5/2017 10:10:18 PM Elapsed time: 00:00:25.8640810 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114 - Copy.jpeg to helloo_343.jpeg
+ 2/5/2017 10:10:18 PM Elapsed time: 00:00:25.9526954 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114.jpeg to helloo_344.jpeg
+ 2/5/2017 10:10:18 PM Elapsed time: 00:00:26.0576290 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115 - Copy (2).jpeg to helloo_345.jpeg
+ 2/5/2017 10:10:18 PM Elapsed time: 00:00:26.1571434 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115 - Copy.jpeg to helloo_346.jpeg
+ 2/5/2017 10:10:18 PM Elapsed time: 00:00:26.2730844 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115.jpeg to helloo_347.jpeg
+ 2/5/2017 10:10:18 PM Elapsed time: 00:00:26.7542272 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116 - Copy (2).jpeg to helloo_348.jpeg
+ 2/5/2017 10:10:19 PM Elapsed time: 00:00:26.8569276 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116 - Copy.jpeg to helloo_349.jpeg
+ 2/5/2017 10:10:19 PM Elapsed time: 00:00:26.9670761 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116.jpeg to helloo_350.jpeg
+ 2/5/2017 10:10:19 PM Elapsed time: 00:00:27.0460147 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117 - Copy (2).jpeg to helloo_351.jpeg
+ 2/5/2017 10:10:19 PM Elapsed time: 00:00:27.1202556 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117 - Copy.jpeg to helloo_352.jpeg
+ 2/5/2017 10:10:19 PM Elapsed time: 00:00:27.1832859 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117.jpeg to helloo_353.jpeg
+ 2/5/2017 10:10:19 PM Elapsed time: 00:00:27.2446236 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118 - Copy (2).jpeg to helloo_354.jpeg
+ 2/5/2017 10:10:19 PM Elapsed time: 00:00:27.3253225 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118 - Copy.jpeg to helloo_355.jpeg
+ 2/5/2017 10:10:19 PM Elapsed time: 00:00:27.3827475 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118.jpeg to helloo_356.jpeg
+ 2/5/2017 10:10:19 PM Elapsed time: 00:00:27.4492863 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119 - Copy (2).jpeg to helloo_357.jpeg
+ 2/5/2017 10:10:19 PM Elapsed time: 00:00:27.5330228 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119 - Copy.jpeg to helloo_358.jpeg
+ 2/5/2017 10:10:19 PM Elapsed time: 00:00:27.6222085 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119.jpeg to helloo_359.jpeg
+ 2/5/2017 10:10:19 PM Elapsed time: 00:00:27.7159483 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120 - Copy (2).jpeg to helloo_360.jpeg
+ 2/5/2017 10:10:20 PM Elapsed time: 00:00:27.8192427 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120 - Copy.jpeg to helloo_361.jpeg
+ 2/5/2017 10:10:20 PM Elapsed time: 00:00:28.0219673 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120.jpeg to helloo_362.jpeg
+ 2/5/2017 10:10:20 PM Elapsed time: 00:00:28.0932560 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121 - Copy (2).jpeg to helloo_363.jpeg
+ 2/5/2017 10:10:20 PM Elapsed time: 00:00:28.1738296 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121 - Copy.jpeg to helloo_364.jpeg
+ 2/5/2017 10:10:20 PM Elapsed time: 00:00:28.2513882 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121.jpeg to helloo_365.jpeg
+ 2/5/2017 10:10:20 PM Elapsed time: 00:00:28.3200106 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122 - Copy (2).jpeg to helloo_366.jpeg
+ 2/5/2017 10:10:20 PM Elapsed time: 00:00:28.3818127 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122 - Copy.jpeg to helloo_367.jpeg
+ 2/5/2017 10:10:20 PM Elapsed time: 00:00:28.4440129 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122.jpeg to helloo_368.jpeg
+ 2/5/2017 10:10:20 PM Elapsed time: 00:00:28.5039761 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123 - Copy (2).jpeg to helloo_369.jpeg
+ 2/5/2017 10:10:20 PM Elapsed time: 00:00:28.5548695 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123 - Copy.jpeg to helloo_370.jpeg
+ 2/5/2017 10:10:20 PM Elapsed time: 00:00:28.6137307 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123.jpeg to helloo_371.jpeg
+ 2/5/2017 10:14:11 PM Elapsed time: 00:00:00.0772472 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062 - Copy (2).jpeg to sadasdasd_186.jpeg
+
+ 2/5/2017 10:14:11 PM Elapsed time: 00:00:00.1849166 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062 - Copy.jpeg to sadasdasd_187.jpeg
+
+ 2/5/2017 10:14:11 PM Elapsed time: 00:00:00.2777365 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_062.jpeg to sadasdasd_188.jpeg
+
+ 2/5/2017 10:14:11 PM Elapsed time: 00:00:00.3611813 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063 - Copy (2).jpeg to sadasdasd_189.jpeg
+
+ 2/5/2017 10:14:11 PM Elapsed time: 00:00:00.4454977 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063 - Copy.jpeg to sadasdasd_190.jpeg
+
+ 2/5/2017 10:14:12 PM Elapsed time: 00:00:00.5329839 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_063.jpeg to sadasdasd_191.jpeg
+
+ 2/5/2017 10:14:12 PM Elapsed time: 00:00:00.6163877 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064 - Copy (2).jpeg to sadasdasd_192.jpeg
+
+ 2/5/2017 10:14:12 PM Elapsed time: 00:00:00.7021808 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064 - Copy.jpeg to sadasdasd_193.jpeg
+
+ 2/5/2017 10:14:12 PM Elapsed time: 00:00:00.7845295 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_064.jpeg to sadasdasd_194.jpeg
+
+ 2/5/2017 10:14:12 PM Elapsed time: 00:00:00.8716548 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065 - Copy (2).jpeg to sadasdasd_195.jpeg
+
+ 2/5/2017 10:14:12 PM Elapsed time: 00:00:00.9528946 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065 - Copy.jpeg to sadasdasd_196.jpeg
+
+ 2/5/2017 10:14:12 PM Elapsed time: 00:00:01.0364400 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_065.jpeg to sadasdasd_197.jpeg
+
+ 2/5/2017 10:14:12 PM Elapsed time: 00:00:01.1516331 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066 - Copy (2).jpeg to sadasdasd_198.jpeg
+
+ 2/5/2017 10:14:12 PM Elapsed time: 00:00:01.2701293 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066 - Copy.jpeg to sadasdasd_199.jpeg
+
+ 2/5/2017 10:14:12 PM Elapsed time: 00:00:01.3898782 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_066.jpeg to sadasdasd_200.jpeg
+
+ 2/5/2017 10:14:13 PM Elapsed time: 00:00:01.5174596 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067 - Copy (2).jpeg to sadasdasd_201.jpeg
+
+ 2/5/2017 10:14:13 PM Elapsed time: 00:00:01.6285703 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067 - Copy.jpeg to sadasdasd_202.jpeg
+
+ 2/5/2017 10:14:13 PM Elapsed time: 00:00:01.7484004 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_067.jpeg to sadasdasd_203.jpeg
+
+ 2/5/2017 10:14:13 PM Elapsed time: 00:00:01.8411929 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068 - Copy (2).jpeg to sadasdasd_204.jpeg
+
+ 2/5/2017 10:14:13 PM Elapsed time: 00:00:01.9268526 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068 - Copy.jpeg to sadasdasd_205.jpeg
+
+ 2/5/2017 10:14:13 PM Elapsed time: 00:00:02.0225865 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_068.jpeg to sadasdasd_206.jpeg
+
+ 2/5/2017 10:14:13 PM Elapsed time: 00:00:02.1261765 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069 - Copy (2).jpeg to sadasdasd_207.jpeg
+
+ 2/5/2017 10:14:13 PM Elapsed time: 00:00:02.2285900 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069 - Copy.jpeg to sadasdasd_208.jpeg
+
+ 2/5/2017 10:14:13 PM Elapsed time: 00:00:02.3442714 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_069.jpeg to sadasdasd_209.jpeg
+
+ 2/5/2017 10:14:13 PM Elapsed time: 00:00:02.4389986 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070 - Copy (2).jpeg to sadasdasd_210.jpeg
+
+ 2/5/2017 10:14:14 PM Elapsed time: 00:00:02.5305702 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070 - Copy.jpeg to sadasdasd_211.jpeg
+
+ 2/5/2017 10:14:14 PM Elapsed time: 00:00:02.6415073 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_070.jpeg to sadasdasd_212.jpeg
+
+ 2/5/2017 10:14:14 PM Elapsed time: 00:00:02.7062444 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071 - Copy (2).jpeg to sadasdasd_213.jpeg
+
+ 2/5/2017 10:14:14 PM Elapsed time: 00:00:02.7406428 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071 - Copy.jpeg to sadasdasd_214.jpeg
+
+ 2/5/2017 10:14:14 PM Elapsed time: 00:00:02.7753375 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_071.jpeg to sadasdasd_215.jpeg
+
+ 2/5/2017 10:14:14 PM Elapsed time: 00:00:02.8633279 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072 - Copy (2).jpeg to sadasdasd_216.jpeg
+
+ 2/5/2017 10:14:14 PM Elapsed time: 00:00:02.9540224 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072 - Copy.jpeg to sadasdasd_217.jpeg
+
+ 2/5/2017 10:14:14 PM Elapsed time: 00:00:03.0482954 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_072.jpeg to sadasdasd_218.jpeg
+
+ 2/5/2017 10:14:14 PM Elapsed time: 00:00:03.1434589 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073 - Copy (2).jpeg to sadasdasd_219.jpeg
+
+ 2/5/2017 10:14:14 PM Elapsed time: 00:00:03.4216572 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073 - Copy.jpeg to sadasdasd_220.jpeg
+
+ 2/5/2017 10:14:14 PM Elapsed time: 00:00:03.4904613 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_073.jpeg to sadasdasd_221.jpeg
+
+ 2/5/2017 10:14:15 PM Elapsed time: 00:00:03.5829057 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074 - Copy (2).jpeg to sadasdasd_222.jpeg
+
+ 2/5/2017 10:14:15 PM Elapsed time: 00:00:03.6891151 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074 - Copy.jpeg to sadasdasd_223.jpeg
+
+ 2/5/2017 10:14:15 PM Elapsed time: 00:00:03.7934607 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_074.jpeg to sadasdasd_224.jpeg
+
+ 2/5/2017 10:14:15 PM Elapsed time: 00:00:03.8513224 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075 - Copy (2).jpeg to sadasdasd_225.jpeg
+
+ 2/5/2017 10:14:15 PM Elapsed time: 00:00:03.9258326 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075 - Copy.jpeg to sadasdasd_226.jpeg
+
+ 2/5/2017 10:14:15 PM Elapsed time: 00:00:03.9992832 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_075.jpeg to sadasdasd_227.jpeg
+
+ 2/5/2017 10:14:15 PM Elapsed time: 00:00:04.0898203 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076 - Copy (2).jpeg to sadasdasd_228.jpeg
+
+ 2/5/2017 10:14:15 PM Elapsed time: 00:00:04.4230304 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076 - Copy.jpeg to sadasdasd_229.jpeg
+
+ 2/5/2017 10:14:16 PM Elapsed time: 00:00:04.5447825 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_076.jpeg to sadasdasd_230.jpeg
+
+ 2/5/2017 10:14:16 PM Elapsed time: 00:00:04.6778955 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077 - Copy (2).jpeg to sadasdasd_231.jpeg
+
+ 2/5/2017 10:14:16 PM Elapsed time: 00:00:04.8066046 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077 - Copy.jpeg to sadasdasd_232.jpeg
+
+ 2/5/2017 10:14:16 PM Elapsed time: 00:00:04.9256479 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_077.jpeg to sadasdasd_233.jpeg
+
+ 2/5/2017 10:14:16 PM Elapsed time: 00:00:05.0062433 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078 - Copy (2).jpeg to sadasdasd_234.jpeg
+
+ 2/5/2017 10:14:16 PM Elapsed time: 00:00:05.1295875 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078 - Copy.jpeg to sadasdasd_235.jpeg
+
+ 2/5/2017 10:14:16 PM Elapsed time: 00:00:05.2239580 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_078.jpeg to sadasdasd_236.jpeg
+
+ 2/5/2017 10:14:16 PM Elapsed time: 00:00:05.3130920 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079 - Copy (2).jpeg to sadasdasd_237.jpeg
+
+ 2/5/2017 10:14:16 PM Elapsed time: 00:00:05.4339921 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079 - Copy.jpeg to sadasdasd_238.jpeg
+
+ 2/5/2017 10:14:17 PM Elapsed time: 00:00:05.5507760 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_079.jpeg to sadasdasd_239.jpeg
+
+ 2/5/2017 10:14:17 PM Elapsed time: 00:00:05.7393068 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080 - Copy (2).jpeg to sadasdasd_240.jpeg
+
+ 2/5/2017 10:14:17 PM Elapsed time: 00:00:05.8052524 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080 - Copy.jpeg to sadasdasd_241.jpeg
+
+ 2/5/2017 10:14:17 PM Elapsed time: 00:00:05.9001101 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_080.jpeg to sadasdasd_242.jpeg
+
+ 2/5/2017 10:14:17 PM Elapsed time: 00:00:06.0735168 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081 - Copy (2).jpeg to sadasdasd_243.jpeg
+
+ 2/5/2017 10:14:17 PM Elapsed time: 00:00:06.1918193 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081 - Copy.jpeg to sadasdasd_244.jpeg
+
+ 2/5/2017 10:14:17 PM Elapsed time: 00:00:06.2872129 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_081.jpeg to sadasdasd_245.jpeg
+
+ 2/5/2017 10:14:17 PM Elapsed time: 00:00:06.3214334 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082 - Copy (2).jpeg to sadasdasd_246.jpeg
+
+ 2/5/2017 10:14:17 PM Elapsed time: 00:00:06.3512978 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082 - Copy.jpeg to sadasdasd_247.jpeg
+
+ 2/5/2017 10:14:17 PM Elapsed time: 00:00:06.3759486 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_082.jpeg to sadasdasd_248.jpeg
+
+ 2/5/2017 10:14:17 PM Elapsed time: 00:00:06.4375985 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083 - Copy (2).jpeg to sadasdasd_249.jpeg
+
+ 2/5/2017 10:14:18 PM Elapsed time: 00:00:06.5214197 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083 - Copy.jpeg to sadasdasd_250.jpeg
+
+ 2/5/2017 10:14:18 PM Elapsed time: 00:00:06.5783923 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_083.jpeg to sadasdasd_251.jpeg
+
+ 2/5/2017 10:14:18 PM Elapsed time: 00:00:06.6546521 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084 - Copy (2).jpeg to sadasdasd_252.jpeg
+
+ 2/5/2017 10:14:18 PM Elapsed time: 00:00:06.7351555 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084 - Copy.jpeg to sadasdasd_253.jpeg
+
+ 2/5/2017 10:14:18 PM Elapsed time: 00:00:06.8186029 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_084.jpeg to sadasdasd_254.jpeg
+
+ 2/5/2017 10:14:18 PM Elapsed time: 00:00:06.8978538 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085 - Copy (2).jpeg to sadasdasd_255.jpeg
+
+ 2/5/2017 10:14:18 PM Elapsed time: 00:00:07.4484271 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085 - Copy.jpeg to sadasdasd_256.jpeg
+
+ 2/5/2017 10:14:19 PM Elapsed time: 00:00:07.6119520 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_085.jpeg to sadasdasd_257.jpeg
+
+ 2/5/2017 10:14:19 PM Elapsed time: 00:00:07.7355742 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086 - Copy (2).jpeg to sadasdasd_258.jpeg
+
+ 2/5/2017 10:14:19 PM Elapsed time: 00:00:07.8334344 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086 - Copy.jpeg to sadasdasd_259.jpeg
+
+ 2/5/2017 10:14:19 PM Elapsed time: 00:00:07.9371702 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_086.jpeg to sadasdasd_260.jpeg
+
+ 2/5/2017 10:14:19 PM Elapsed time: 00:00:08.0365422 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087 - Copy (2).jpeg to sadasdasd_261.jpeg
+
+ 2/5/2017 10:14:19 PM Elapsed time: 00:00:08.1540301 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087 - Copy.jpeg to sadasdasd_262.jpeg
+
+ 2/5/2017 10:14:19 PM Elapsed time: 00:00:08.2739744 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_087.jpeg to sadasdasd_263.jpeg
+
+ 2/5/2017 10:14:20 PM Elapsed time: 00:00:08.6554775 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088 - Copy (2).jpeg to sadasdasd_264.jpeg
+
+ 2/5/2017 10:14:20 PM Elapsed time: 00:00:08.7646941 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088 - Copy.jpeg to sadasdasd_265.jpeg
+
+ 2/5/2017 10:14:20 PM Elapsed time: 00:00:09.2281730 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_088.jpeg to sadasdasd_266.jpeg
+
+ 2/5/2017 10:14:20 PM Elapsed time: 00:00:09.3099709 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089 - Copy (2).jpeg to sadasdasd_267.jpeg
+
+ 2/5/2017 10:14:20 PM Elapsed time: 00:00:09.3779017 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089 - Copy.jpeg to sadasdasd_268.jpeg
+
+ 2/5/2017 10:14:20 PM Elapsed time: 00:00:09.4466661 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_089.jpeg to sadasdasd_269.jpeg
+
+ 2/5/2017 10:14:21 PM Elapsed time: 00:00:09.5314033 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090 - Copy (2).jpeg to sadasdasd_270.jpeg
+
+ 2/5/2017 10:14:21 PM Elapsed time: 00:00:09.6382515 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090 - Copy.jpeg to sadasdasd_271.jpeg
+
+ 2/5/2017 10:14:21 PM Elapsed time: 00:00:09.7767424 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_090.jpeg to sadasdasd_272.jpeg
+
+ 2/5/2017 10:14:21 PM Elapsed time: 00:00:10.2356146 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091 - Copy (2).jpeg to sadasdasd_273.jpeg
+
+ 2/5/2017 10:14:21 PM Elapsed time: 00:00:10.3384142 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091 - Copy.jpeg to sadasdasd_274.jpeg
+
+ 2/5/2017 10:14:21 PM Elapsed time: 00:00:10.4438825 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_091.jpeg to sadasdasd_275.jpeg
+
+ 2/5/2017 10:14:22 PM Elapsed time: 00:00:10.5765161 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092 - Copy (2).jpeg to sadasdasd_276.jpeg
+
+ 2/5/2017 10:14:22 PM Elapsed time: 00:00:10.6560856 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092 - Copy.jpeg to sadasdasd_277.jpeg
+
+ 2/5/2017 10:14:22 PM Elapsed time: 00:00:10.7500576 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_092.jpeg to sadasdasd_278.jpeg
+
+ 2/5/2017 10:14:22 PM Elapsed time: 00:00:10.8438521 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093 - Copy (2).jpeg to sadasdasd_279.jpeg
+
+ 2/5/2017 10:14:22 PM Elapsed time: 00:00:10.9176486 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093 - Copy.jpeg to sadasdasd_280.jpeg
+
+ 2/5/2017 10:14:22 PM Elapsed time: 00:00:11.0033237 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_093.jpeg to sadasdasd_281.jpeg
+
+ 2/5/2017 10:14:22 PM Elapsed time: 00:00:11.3717794 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094 - Copy (2).jpeg to sadasdasd_282.jpeg
+
+ 2/5/2017 10:14:22 PM Elapsed time: 00:00:11.4549536 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094 - Copy.jpeg to sadasdasd_283.jpeg
+
+ 2/5/2017 10:14:23 PM Elapsed time: 00:00:11.6082293 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_094.jpeg to sadasdasd_284.jpeg
+
+ 2/5/2017 10:14:23 PM Elapsed time: 00:00:11.7415160 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095 - Copy (2).jpeg to sadasdasd_285.jpeg
+
+ 2/5/2017 10:14:23 PM Elapsed time: 00:00:11.8513728 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095 - Copy.jpeg to sadasdasd_286.jpeg
+
+ 2/5/2017 10:14:23 PM Elapsed time: 00:00:11.9484120 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_095.jpeg to sadasdasd_287.jpeg
+
+ 2/5/2017 10:14:23 PM Elapsed time: 00:00:12.0574280 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096 - Copy (2).jpeg to sadasdasd_288.jpeg
+
+ 2/5/2017 10:14:23 PM Elapsed time: 00:00:12.1339226 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096 - Copy.jpeg to sadasdasd_289.jpeg
+
+ 2/5/2017 10:14:23 PM Elapsed time: 00:00:12.1850380 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_096.jpeg to sadasdasd_290.jpeg
+
+ 2/5/2017 10:14:23 PM Elapsed time: 00:00:12.2741865 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097 - Copy (2).jpeg to sadasdasd_291.jpeg
+
+ 2/5/2017 10:14:23 PM Elapsed time: 00:00:12.3493361 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097 - Copy.jpeg to sadasdasd_292.jpeg
+
+ 2/5/2017 10:14:24 PM Elapsed time: 00:00:12.6404373 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_097.jpeg to sadasdasd_293.jpeg
+
+ 2/5/2017 10:14:24 PM Elapsed time: 00:00:12.7693542 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098 - Copy (2).jpeg to sadasdasd_294.jpeg
+
+ 2/5/2017 10:14:24 PM Elapsed time: 00:00:12.8902193 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098 - Copy.jpeg to sadasdasd_295.jpeg
+
+ 2/5/2017 10:14:24 PM Elapsed time: 00:00:12.9963580 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_098.jpeg to sadasdasd_296.jpeg
+
+ 2/5/2017 10:14:24 PM Elapsed time: 00:00:13.1153256 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099 - Copy (2).jpeg to sadasdasd_297.jpeg
+
+ 2/5/2017 10:14:24 PM Elapsed time: 00:00:13.2134565 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099 - Copy.jpeg to sadasdasd_298.jpeg
+
+ 2/5/2017 10:14:24 PM Elapsed time: 00:00:13.3343674 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_099.jpeg to sadasdasd_299.jpeg
+
+ 2/5/2017 10:14:24 PM Elapsed time: 00:00:13.4404492 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100 - Copy (2).jpeg to sadasdasd_300.jpeg
+
+ 2/5/2017 10:14:25 PM Elapsed time: 00:00:13.5465294 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100 - Copy.jpeg to sadasdasd_301.jpeg
+
+ 2/5/2017 10:14:25 PM Elapsed time: 00:00:13.6580481 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_100.jpeg to sadasdasd_302.jpeg
+
+ 2/5/2017 10:14:25 PM Elapsed time: 00:00:13.7373515 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101 - Copy (2).jpeg to sadasdasd_303.jpeg
+
+ 2/5/2017 10:14:25 PM Elapsed time: 00:00:13.9828454 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101 - Copy.jpeg to sadasdasd_304.jpeg
+
+ 2/5/2017 10:14:25 PM Elapsed time: 00:00:14.0914958 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_101.jpeg to sadasdasd_305.jpeg
+
+ 2/5/2017 10:14:25 PM Elapsed time: 00:00:14.2229783 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102 - Copy (2).jpeg to sadasdasd_306.jpeg
+
+ 2/5/2017 10:14:25 PM Elapsed time: 00:00:14.3571331 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102 - Copy.jpeg to sadasdasd_307.jpeg
+
+ 2/5/2017 10:14:26 PM Elapsed time: 00:00:14.6670613 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_102.jpeg to sadasdasd_308.jpeg
+
+ 2/5/2017 10:14:26 PM Elapsed time: 00:00:14.7558065 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103 - Copy (2).jpeg to sadasdasd_309.jpeg
+
+ 2/5/2017 10:14:26 PM Elapsed time: 00:00:14.8371533 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103 - Copy.jpeg to sadasdasd_310.jpeg
+
+ 2/5/2017 10:14:26 PM Elapsed time: 00:00:14.9242619 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_103.jpeg to sadasdasd_311.jpeg
+
+ 2/5/2017 10:14:26 PM Elapsed time: 00:00:15.0090966 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104 - Copy (2).jpeg to sadasdasd_312.jpeg
+
+ 2/5/2017 10:14:26 PM Elapsed time: 00:00:15.0987698 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104 - Copy.jpeg to sadasdasd_313.jpeg
+
+ 2/5/2017 10:14:26 PM Elapsed time: 00:00:15.4258286 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_104.jpeg to sadasdasd_314.jpeg
+
+ 2/5/2017 10:14:27 PM Elapsed time: 00:00:15.5250257 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105 - Copy (2).jpeg to sadasdasd_315.jpeg
+
+ 2/5/2017 10:14:27 PM Elapsed time: 00:00:15.6323247 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105 - Copy.jpeg to sadasdasd_316.jpeg
+
+ 2/5/2017 10:14:27 PM Elapsed time: 00:00:15.7162327 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_105.jpeg to sadasdasd_317.jpeg
+
+ 2/5/2017 10:14:27 PM Elapsed time: 00:00:15.8075801 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106 - Copy (2).jpeg to sadasdasd_318.jpeg
+
+ 2/5/2017 10:14:27 PM Elapsed time: 00:00:15.9104692 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106 - Copy.jpeg to sadasdasd_319.jpeg
+
+ 2/5/2017 10:14:27 PM Elapsed time: 00:00:16.0366072 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_106.jpeg to sadasdasd_320.jpeg
+
+ 2/5/2017 10:14:27 PM Elapsed time: 00:00:16.1280120 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107 - Copy (2).jpeg to sadasdasd_321.jpeg
+
+ 2/5/2017 10:14:27 PM Elapsed time: 00:00:16.2426333 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107 - Copy.jpeg to sadasdasd_322.jpeg
+
+ 2/5/2017 10:14:27 PM Elapsed time: 00:00:16.3624643 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_107.jpeg to sadasdasd_323.jpeg
+
+ 2/5/2017 10:14:27 PM Elapsed time: 00:00:16.4683986 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108 - Copy (2).jpeg to sadasdasd_324.jpeg
+
+ 2/5/2017 10:14:28 PM Elapsed time: 00:00:17.1225628 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108 - Copy.jpeg to sadasdasd_325.jpeg
+
+ 2/5/2017 10:14:28 PM Elapsed time: 00:00:17.2333267 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_108.jpeg to sadasdasd_326.jpeg
+
+ 2/5/2017 10:14:28 PM Elapsed time: 00:00:17.3284747 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109 - Copy (2).jpeg to sadasdasd_327.jpeg
+
+ 2/5/2017 10:14:28 PM Elapsed time: 00:00:17.4529325 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109 - Copy.jpeg to sadasdasd_328.jpeg
+
+ 2/5/2017 10:14:29 PM Elapsed time: 00:00:17.5385100 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_109.jpeg to sadasdasd_329.jpeg
+
+ 2/5/2017 10:14:29 PM Elapsed time: 00:00:17.6351643 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110 - Copy (2).jpeg to sadasdasd_330.jpeg
+
+ 2/5/2017 10:14:29 PM Elapsed time: 00:00:17.7563663 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110 - Copy.jpeg to sadasdasd_331.jpeg
+
+ 2/5/2017 10:14:29 PM Elapsed time: 00:00:17.8979957 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_110.jpeg to sadasdasd_332.jpeg
+
+ 2/5/2017 10:14:29 PM Elapsed time: 00:00:18.3385776 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111 - Copy (2).jpeg to sadasdasd_333.jpeg
+
+ 2/5/2017 10:14:29 PM Elapsed time: 00:00:18.4101131 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111 - Copy.jpeg to sadasdasd_334.jpeg
+
+ 2/5/2017 10:14:30 PM Elapsed time: 00:00:18.5030579 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_111.jpeg to sadasdasd_335.jpeg
+
+ 2/5/2017 10:14:30 PM Elapsed time: 00:00:18.6076665 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112 - Copy (2).jpeg to sadasdasd_336.jpeg
+
+ 2/5/2017 10:14:30 PM Elapsed time: 00:00:19.1843213 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112 - Copy.jpeg to sadasdasd_337.jpeg
+
+ 2/5/2017 10:14:31 PM Elapsed time: 00:00:19.6088734 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_112.jpeg to sadasdasd_338.jpeg
+
+ 2/5/2017 10:14:31 PM Elapsed time: 00:00:19.7075705 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113 - Copy (2).jpeg to sadasdasd_339.jpeg
+
+ 2/5/2017 10:14:31 PM Elapsed time: 00:00:19.8127894 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113 - Copy.jpeg to sadasdasd_340.jpeg
+
+ 2/5/2017 10:14:31 PM Elapsed time: 00:00:19.9486155 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_113.jpeg to sadasdasd_341.jpeg
+
+ 2/5/2017 10:14:31 PM Elapsed time: 00:00:20.0600003 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114 - Copy (2).jpeg to sadasdasd_342.jpeg
+
+ 2/5/2017 10:14:31 PM Elapsed time: 00:00:20.1457421 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114 - Copy.jpeg to sadasdasd_343.jpeg
+
+ 2/5/2017 10:14:31 PM Elapsed time: 00:00:20.2294388 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_114.jpeg to sadasdasd_344.jpeg
+
+ 2/5/2017 10:14:31 PM Elapsed time: 00:00:20.3079451 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115 - Copy (2).jpeg to sadasdasd_345.jpeg
+
+ 2/5/2017 10:14:31 PM Elapsed time: 00:00:20.3979511 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115 - Copy.jpeg to sadasdasd_346.jpeg
+
+ 2/5/2017 10:14:31 PM Elapsed time: 00:00:20.4752291 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_115.jpeg to sadasdasd_347.jpeg
+
+ 2/5/2017 10:14:32 PM Elapsed time: 00:00:20.5558117 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116 - Copy (2).jpeg to sadasdasd_348.jpeg
+
+ 2/5/2017 10:14:32 PM Elapsed time: 00:00:20.8628361 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116 - Copy.jpeg to sadasdasd_349.jpeg
+
+ 2/5/2017 10:14:32 PM Elapsed time: 00:00:20.9853836 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_116.jpeg to sadasdasd_350.jpeg
+
+ 2/5/2017 10:14:32 PM Elapsed time: 00:00:21.1368794 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117 - Copy (2).jpeg to sadasdasd_351.jpeg
+
+ 2/5/2017 10:14:32 PM Elapsed time: 00:00:21.2139787 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117 - Copy.jpeg to sadasdasd_352.jpeg
+
+ 2/5/2017 10:14:32 PM Elapsed time: 00:00:21.2906773 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_117.jpeg to sadasdasd_353.jpeg
+
+ 2/5/2017 10:14:32 PM Elapsed time: 00:00:21.3573700 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118 - Copy (2).jpeg to sadasdasd_354.jpeg
+
+ 2/5/2017 10:14:32 PM Elapsed time: 00:00:21.4185041 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118 - Copy.jpeg to sadasdasd_355.jpeg
+
+ 2/5/2017 10:14:33 PM Elapsed time: 00:00:21.5006831 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_118.jpeg to sadasdasd_356.jpeg
+
+ 2/5/2017 10:14:33 PM Elapsed time: 00:00:21.5694752 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119 - Copy (2).jpeg to sadasdasd_357.jpeg
+
+ 2/5/2017 10:14:33 PM Elapsed time: 00:00:21.6770997 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119 - Copy.jpeg to sadasdasd_358.jpeg
+
+ 2/5/2017 10:14:33 PM Elapsed time: 00:00:21.7657589 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_119.jpeg to sadasdasd_359.jpeg
+
+ 2/5/2017 10:14:33 PM Elapsed time: 00:00:21.8767366 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120 - Copy (2).jpeg to sadasdasd_360.jpeg
+
+ 2/5/2017 10:14:33 PM Elapsed time: 00:00:22.1229139 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120 - Copy.jpeg to sadasdasd_361.jpeg
+
+ 2/5/2017 10:14:33 PM Elapsed time: 00:00:22.3621944 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_120.jpeg to sadasdasd_362.jpeg
+
+ 2/5/2017 10:14:33 PM Elapsed time: 00:00:22.4631581 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121 - Copy (2).jpeg to sadasdasd_363.jpeg
+
+ 2/5/2017 10:14:34 PM Elapsed time: 00:00:22.5858382 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121 - Copy.jpeg to sadasdasd_364.jpeg
+
+ 2/5/2017 10:14:34 PM Elapsed time: 00:00:22.7117495 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_121.jpeg to sadasdasd_365.jpeg
+
+ 2/5/2017 10:14:34 PM Elapsed time: 00:00:22.8246688 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122 - Copy (2).jpeg to sadasdasd_366.jpeg
+
+ 2/5/2017 10:14:34 PM Elapsed time: 00:00:22.9317488 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122 - Copy.jpeg to sadasdasd_367.jpeg
+
+ 2/5/2017 10:14:34 PM Elapsed time: 00:00:23.0780936 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_122.jpeg to sadasdasd_368.jpeg
+
+ 2/5/2017 10:14:34 PM Elapsed time: 00:00:23.1540814 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123 - Copy (2).jpeg to sadasdasd_369.jpeg
+
+ 2/5/2017 10:14:34 PM Elapsed time: 00:00:23.2366166 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123 - Copy.jpeg to sadasdasd_370.jpeg
+
+ 2/5/2017 10:14:35 PM Elapsed time: 00:00:23.6832759 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123.jpeg to sadasdasd_371.jpeg
+
+ 

@@ -1,0 +1,226 @@
+System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 136System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 136System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 136System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 139System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 139System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 139System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 136System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 136System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 136System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 136System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.RenameFiles(UserInput userInput) in h:\users\austin\documents\visual studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 133System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.ProcessFiles(UserInput userInput, String[] imageNames, String startingIndex) in C:\Users\Austin\Documents\Visual Studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 139System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at ImageRenameAndFormatChanger.Program.ProcessFiles(UserInput userInput, String[] imageNames, String startingIndex) in C:\Users\Austin\Documents\Visual Studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\Program.cs:line 139
