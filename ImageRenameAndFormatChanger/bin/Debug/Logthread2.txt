@@ -1300,4 +1300,32 @@
 
  2/5/2017 10:14:35 PM Elapsed time: 00:00:23.6832759 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_123.jpeg to sadasdasd_371.jpeg
 
+ 2/11/2017 4:12:45 PM Elapsed time: 00:00:00.2420692 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_24.png to testies_041.jpeg
+
+ 2/11/2017 4:12:45 PM Elapsed time: 00:00:00.2422454 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_24.png to testies_041.jpeg
+
+ 2/11/2017 4:15:07 PM Elapsed time: 00:00:00.1837258 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_24.png to sfdgfdg_041.jpeg
+
+ 2/11/2017 4:15:07 PM Elapsed time: 00:00:00.1837360 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_24.png to sfdgfdg_041.jpeg
+
+ 2/11/2017 5:04:55 PM Elapsed time: 00:00:00.1705184 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_24.png to sadad_041.jpeg
+
+ 2/11/2017 5:04:55 PM Elapsed time: 00:00:00.1705218 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_24.png to sadad_041.jpeg
+
+ 2/11/2017 5:10:23 PM Elapsed time: 00:00:00.1455184 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_24.png to sdad_041.jpeg
+
+ 2/11/2017 5:10:23 PM Elapsed time: 00:00:00.4974677 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_25.png to sdad_042.jpeg
+
+ 2/11/2017 5:10:24 PM Elapsed time: 00:00:00.1448413 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_24.png to sdad_041.jpeg
+
+ 2/11/2017 5:10:24 PM Elapsed time: 00:00:00.5057810 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_25.png to sdad_042.jpeg
+
+ 2/11/2017 5:17:46 PM Elapsed time: 00:00:00.1759195 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_24.png to 231213_041.jpeg
+
+ 2/11/2017 5:17:46 PM Elapsed time: 00:00:00.3398274 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_25.png to 231213_042.jpeg
+
+ 2/11/2017 5:17:46 PM Elapsed time: 00:00:00.1759171 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_24.png to 231213_041.jpeg
+
+ 2/11/2017 5:17:46 PM Elapsed time: 00:00:00.5509906 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_25.png to 231213_042.jpeg
+
  

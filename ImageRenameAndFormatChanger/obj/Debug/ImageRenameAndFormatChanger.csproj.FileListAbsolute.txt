@@ -18,3 +18,12 @@ C:\Users\Austin\Documents\Visual Studio 2015\Projects\ImageRenameAndFormatChange
 C:\Users\Austin\Documents\Visual Studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\obj\Debug\ImageRenameAndFormatChanger.csprojResolveAssemblyReference.cache
 C:\Users\Austin\Documents\Visual Studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\obj\Debug\ImageRenameAndFormatChanger.exe.manifest
 C:\Users\Austin\Documents\Visual Studio 2015\Projects\ImageRenameAndFormatChanger\ImageRenameAndFormatChanger\obj\Debug\ImageRenameAndFormatChanger.application
+C:\Projects\EasyImageConvert\ImageRenameAndFormatChanger\bin\Debug\ImageRenameAndFormatChanger.exe.config
+C:\Projects\EasyImageConvert\ImageRenameAndFormatChanger\obj\Debug\ImageRenameAndFormatChanger.exe
+C:\Projects\EasyImageConvert\ImageRenameAndFormatChanger\obj\Debug\ImageRenameAndFormatChanger.pdb
+C:\Projects\EasyImageConvert\ImageRenameAndFormatChanger\bin\Debug\ImageRenameAndFormatChanger.exe.manifest
+C:\Projects\EasyImageConvert\ImageRenameAndFormatChanger\bin\Debug\ImageRenameAndFormatChanger.application
+C:\Projects\EasyImageConvert\ImageRenameAndFormatChanger\bin\Debug\ImageRenameAndFormatChanger.exe
+C:\Projects\EasyImageConvert\ImageRenameAndFormatChanger\bin\Debug\ImageRenameAndFormatChanger.pdb
+C:\Projects\EasyImageConvert\ImageRenameAndFormatChanger\obj\Debug\ImageRenameAndFormatChanger.exe.manifest
+C:\Projects\EasyImageConvert\ImageRenameAndFormatChanger\obj\Debug\ImageRenameAndFormatChanger.application

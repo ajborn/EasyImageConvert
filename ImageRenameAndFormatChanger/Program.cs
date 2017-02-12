@@ -21,8 +21,8 @@ namespace ImageRenameAndFormatChanger {
 
 			Console.WriteLine("\nStarting Image rename....\n\n");
 			RenameFiles(MainUserInput);
-            
-            
+
+
 		}
 
 		private static UserInput MainUserInput = new UserInput();
@@ -112,104 +112,123 @@ namespace ImageRenameAndFormatChanger {
 				Console.ReadKey();
 			}
 
-            var newDirectory = $"{userInput.ImageDirectory}\\RenamedImages";
-            if (!Directory.Exists(newDirectory))
-                Directory.CreateDirectory(newDirectory);
-            int beginningIndex = imageNames.Length / 2;
-            ImageThread imageThread1 = new ImageThread(imageNames, userInput, startingIndex, 0, beginningIndex + 1, "thread1");
-            ImageThread imageThread2 = new ImageThread(imageNames, userInput, startingIndex, beginningIndex, 0, "thread2");
-            Thread thread1 = new Thread(new ThreadStart(imageThread1.ProcessFiles));
-            Thread thread2 = new Thread(new ThreadStart(imageThread2.ProcessFiles));
+			var newDirectory = $"{userInput.ImageDirectory}\\RenamedImages";
+			if (!Directory.Exists(newDirectory))
+				Directory.CreateDirectory(newDirectory);
 
-            thread1.Priority = ThreadPriority.Highest;
-            thread2.Priority = ThreadPriority.Highest;
+			int t1StartIndex = 0;
+			int t2StartIndex = imageNames.Length / 3;
+			int t3StartIndex = imageNames.Length - t2StartIndex;
 
-            thread1.Start();
-            thread2.Start();
+			int t1EndIndex = t2StartIndex - 1;
+			int t2EndIndex = t3StartIndex - 1;
+			int t3EndIndex = imageNames.Length;
 
-            thread1.Join();
-            thread2.Join();
-            
-            Console.WriteLine("Do you want to delete your old images? y/n");
-            var delete = Console.ReadLine();
-            if (!string.IsNullOrEmpty(delete) && delete?.ToLower() == "y") {
-               foreach (var oldImageName in imageNames) {
-                    File.Delete(Path.Combine(MainUserInput.ImageDirectory, oldImageName));
-                }
-            }
+			Console.WriteLine(t1StartIndex.ToString());
+			Console.WriteLine(t2StartIndex.ToString());
+			Console.WriteLine(t3StartIndex.ToString());
+			Console.WriteLine(imageNames.Length.ToString());
 
-        }
+			ImageThread imageThread1 = new ImageThread(imageNames, userInput, startingIndex, t1StartIndex, t1EndIndex, "thread1");
+			ImageThread imageThread2 = new ImageThread(imageNames, userInput, startingIndex, t2StartIndex, t2EndIndex, "thread2");
+			ImageThread imageThread3 = new ImageThread(imageNames, userInput, startingIndex, t3StartIndex, t3EndIndex, "thread3");
 
-        //public static void ProcessFiles(UserInput userInput, string[] imageNames, string startingIndex) {
-        //    var index = 0;
-        //    string[] log = new string[imageNames.Length];
-            
-        //    var newDirectory = $"{userInput.ImageDirectory}\\RenamedImages";
-        //    if (!Directory.Exists(newDirectory))
-        //        Directory.CreateDirectory(newDirectory);
-        //    var watch = System.Diagnostics.Stopwatch.StartNew();
+			Thread thread1 = new Thread(new ThreadStart(imageThread1.ProcessFiles));
+			Thread thread2 = new Thread(new ThreadStart(imageThread2.ProcessFiles));
+			Thread thread3 = new Thread(new ThreadStart(imageThread3.ProcessFiles));
 
-        //    var outputIndex = 0;
-        //    var outputForEach = imageNames.Length > 10 ? true : false;
-        //    foreach (var oldImageName in imageNames) {
+			thread1.Priority = ThreadPriority.Highest;
+			thread2.Priority = ThreadPriority.Highest;
+			thread3.Priority = ThreadPriority.Highest;
 
-        //        Image newImage = null;
-        //        //First operation of file processing
-        //        var parsedStringIndex = FormatFileNameZeroIndex(userInput, startingIndex, index);
-        //        //Second operation of file processing
-        //        try {
-        //            newImage = Image.FromFile(oldImageName);
-        //        } catch (Exception e) {
-        //            Console.WriteLine($"\tSkipped {oldImageName}\n\n\tThis file is not an Image file = {oldImageName}\n\n");
-        //            File.AppendAllText("ErrorLog.txt", e.ToString());
-        //            continue;
-        //        }
-        //        //Third operation Generate new filename
-        //        var newFileName = $"{userInput.FileGroupDescription}_{parsedStringIndex}";
-        //        var fileInputFormatString = userInput.FileFormatInput == "2" ? "jpg" : userInput.ParsedFileFormat?.ToString().ToLower();
-        //        try {
-        //            //Fourth operation output new file name and append to log
-        //            log[index] = $"{DateTime.Now.ToString()} Elapsed time: {watch.Elapsed} Renamed file {oldImageName} to {newFileName}.{fileInputFormatString}\n";
+			thread1.Start();
+			thread2.Start();
+			thread3.Start();
 
-        //            ///Fifth operation to complete//Save the image
-        //            newImage.Save(Path.Combine(newDirectory, newFileName + "." + (fileInputFormatString)), userInput.ParsedFileFormat);
-        //            newImage.Dispose();
+			thread1.Join();
+			thread2.Join();
+			thread3.Join();
 
-        //        } catch (Exception e) {
-        //            Console.WriteLine(e.ToString());
-        //        }
-        //        index++;
-        //        outputIndex++;
+			Console.WriteLine("Do you want to delete your old images? y/n");
+			var delete = Console.ReadLine();
+			if (!string.IsNullOrEmpty(delete) && delete?.ToLower() == "y") {
+				foreach (var oldImageName in imageNames) {
+					File.Delete(Path.Combine(MainUserInput.ImageDirectory, oldImageName));
+				}
+			}
 
-        //        if (outputForEach) {
-        //            outputIndex = OutputElapsedTime(outputIndex, watch.Elapsed, $"{index}/{imageNames.Length}");
-        //        } else { Console.WriteLine($"Elaped Time: {watch.Elapsed}  Files Complete:  {index}/{imageNames.Length}\n  "); }
-        //    }
-        //    watch.Stop();
-        //    Console.WriteLine($"\n\nElaped Time: {watch.Elapsed}  Files Complete:  {index}/{imageNames.Length}\n\n");
-        //    foreach (var logstring in log) {
-        //        File.AppendAllText("Log.txt", logstring);
-        //    }
-            
-        //}
+		}
 
-        //private static int OutputElapsedTime(int outputIndex, TimeSpan elapsed, string complete) {
-        //    if (outputIndex == 10) {
-        //        Console.WriteLine($"Elaped Time: {elapsed} Files Complete:  {complete}\n  ");
-        //        return 0;
-        //    }
-        //    return outputIndex;
-        //}
+		//public static void ProcessFiles(UserInput userInput, string[] imageNames, string startingIndex) {
+		//    var index = 0;
+		//    string[] log = new string[imageNames.Length];
 
-        //public static string FormatFileNameZeroIndex(UserInput userInput, string startingIndex, int index) {
+		//    var newDirectory = $"{userInput.ImageDirectory}\\RenamedImages";
+		//    if (!Directory.Exists(newDirectory))
+		//        Directory.CreateDirectory(newDirectory);
+		//    var watch = System.Diagnostics.Stopwatch.StartNew();
 
-        //    var parsedStringIndex = startingIndex == null && index == 0 ? startingIndex : index.ToString();
+		//    var outputIndex = 0;
+		//    var outputForEach = imageNames.Length > 10 ? true : false;
+		//    foreach (var oldImageName in imageNames) {
 
-        //    if (!string.IsNullOrEmpty(startingIndex) && userInput.FileGroupNumberOption == "0" && index > 0)
-        //        parsedStringIndex = startingIndex.Substring(startingIndex.Length - (startingIndex.Length - parsedStringIndex.Length)) + index.ToString();
+		//        Image newImage = null;
+		//        //First operation of file processing
+		//        var parsedStringIndex = FormatFileNameZeroIndex(userInput, startingIndex, index);
+		//        //Second operation of file processing
+		//        try {
+		//            newImage = Image.FromFile(oldImageName);
+		//        } catch (Exception e) {
+		//            Console.WriteLine($"\tSkipped {oldImageName}\n\n\tThis file is not an Image file = {oldImageName}\n\n");
+		//            File.AppendAllText("ErrorLog.txt", e.ToString());
+		//            continue;
+		//        }
+		//        //Third operation Generate new filename
+		//        var newFileName = $"{userInput.FileGroupDescription}_{parsedStringIndex}";
+		//        var fileInputFormatString = userInput.FileFormatInput == "2" ? "jpg" : userInput.ParsedFileFormat?.ToString().ToLower();
+		//        try {
+		//            //Fourth operation output new file name and append to log
+		//            log[index] = $"{DateTime.Now.ToString()} Elapsed time: {watch.Elapsed} Renamed file {oldImageName} to {newFileName}.{fileInputFormatString}\n";
 
-        //    return parsedStringIndex;
-        //}
-    }
+		//            ///Fifth operation to complete//Save the image
+		//            newImage.Save(Path.Combine(newDirectory, newFileName + "." + (fileInputFormatString)), userInput.ParsedFileFormat);
+		//            newImage.Dispose();
+
+		//        } catch (Exception e) {
+		//            Console.WriteLine(e.ToString());
+		//        }
+		//        index++;
+		//        outputIndex++;
+
+		//        if (outputForEach) {
+		//            outputIndex = OutputElapsedTime(outputIndex, watch.Elapsed, $"{index}/{imageNames.Length}");
+		//        } else { Console.WriteLine($"Elaped Time: {watch.Elapsed}  Files Complete:  {index}/{imageNames.Length}\n  "); }
+		//    }
+		//    watch.Stop();
+		//    Console.WriteLine($"\n\nElaped Time: {watch.Elapsed}  Files Complete:  {index}/{imageNames.Length}\n\n");
+		//    foreach (var logstring in log) {
+		//        File.AppendAllText("Log.txt", logstring);
+		//    }
+
+		//}
+
+		//private static int OutputElapsedTime(int outputIndex, TimeSpan elapsed, string complete) {
+		//    if (outputIndex == 10) {
+		//        Console.WriteLine($"Elaped Time: {elapsed} Files Complete:  {complete}\n  ");
+		//        return 0;
+		//    }
+		//    return outputIndex;
+		//}
+
+		//public static string FormatFileNameZeroIndex(UserInput userInput, string startingIndex, int index) {
+
+		//    var parsedStringIndex = startingIndex == null && index == 0 ? startingIndex : index.ToString();
+
+		//    if (!string.IsNullOrEmpty(startingIndex) && userInput.FileGroupNumberOption == "0" && index > 0)
+		//        parsedStringIndex = startingIndex.Substring(startingIndex.Length - (startingIndex.Length - parsedStringIndex.Length)) + index.ToString();
+
+		//    return parsedStringIndex;
+		//}
+	}
 }
 

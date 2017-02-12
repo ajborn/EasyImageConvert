@@ -1479,4 +1479,174 @@
 
  2/5/2017 10:14:34 PM Elapsed time: 00:00:22.8340481 Renamed file C:\Users\Austin\Pictures\DEC2012\RenamedImages\yoyoy_061 - Copy.jpeg to sadasdasd_184.jpeg
 
+ 2/11/2017 5:09:56 PM Elapsed time: 00:00:00.1513980 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_0.png to sdad_0.jpeg
+
+ 2/11/2017 5:09:56 PM Elapsed time: 00:00:00.4974097 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_1.png to sdad_001.jpeg
+
+ 2/11/2017 5:09:57 PM Elapsed time: 00:00:00.8633356 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_10.png to sdad_002.jpeg
+
+ 2/11/2017 5:09:57 PM Elapsed time: 00:00:01.1367872 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_100.png to sdad_003.jpeg
+
+ 2/11/2017 5:09:57 PM Elapsed time: 00:00:01.3782616 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_101.png to sdad_004.jpeg
+
+ 2/11/2017 5:09:58 PM Elapsed time: 00:00:01.7255871 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_102.png to sdad_005.jpeg
+
+ 2/11/2017 5:09:58 PM Elapsed time: 00:00:02.0791078 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_103.png to sdad_006.jpeg
+
+ 2/11/2017 5:09:58 PM Elapsed time: 00:00:02.4343593 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_104.png to sdad_007.jpeg
+
+ 2/11/2017 5:09:59 PM Elapsed time: 00:00:02.7943225 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_105.png to sdad_008.jpeg
+
+ 2/11/2017 5:09:59 PM Elapsed time: 00:00:03.1655760 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_106.png to sdad_009.jpeg
+
+ 2/11/2017 5:09:59 PM Elapsed time: 00:00:03.5232199 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_107.png to sdad_010.jpeg
+
+ 2/11/2017 5:10:00 PM Elapsed time: 00:00:03.8688909 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_108.png to sdad_011.jpeg
+
+ 2/11/2017 5:10:00 PM Elapsed time: 00:00:04.2156182 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_109.png to sdad_012.jpeg
+
+ 2/11/2017 5:10:00 PM Elapsed time: 00:00:04.5766780 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_11.png to sdad_013.jpeg
+
+ 2/11/2017 5:10:01 PM Elapsed time: 00:00:04.9528705 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_110.png to sdad_014.jpeg
+
+ 2/11/2017 5:10:01 PM Elapsed time: 00:00:05.3181395 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_111.png to sdad_015.jpeg
+
+ 2/11/2017 5:10:02 PM Elapsed time: 00:00:05.6784561 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_112.png to sdad_016.jpeg
+
+ 2/11/2017 5:10:02 PM Elapsed time: 00:00:06.0376603 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_113.png to sdad_017.jpeg
+
+ 2/11/2017 5:10:02 PM Elapsed time: 00:00:06.2813840 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_114.png to sdad_018.jpeg
+
+ 2/11/2017 5:10:02 PM Elapsed time: 00:00:06.4602744 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_115.png to sdad_019.jpeg
+
+ 2/11/2017 5:10:03 PM Elapsed time: 00:00:06.6904356 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_116.png to sdad_020.jpeg
+
+ 2/11/2017 5:10:03 PM Elapsed time: 00:00:06.7479610 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_117.png to sdad_021.jpeg
+
+ 2/11/2017 5:10:03 PM Elapsed time: 00:00:06.8052581 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_118.png to sdad_022.jpeg
+
+ 2/11/2017 5:10:03 PM Elapsed time: 00:00:06.8638917 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_119.png to sdad_023.jpeg
+
+ 2/11/2017 5:10:03 PM Elapsed time: 00:00:07.0420271 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_12.png to sdad_024.jpeg
+
+ 2/11/2017 5:10:03 PM Elapsed time: 00:00:07.2691669 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_120.png to sdad_025.jpeg
+
+ 2/11/2017 5:10:03 PM Elapsed time: 00:00:07.3641128 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_121.png to sdad_026.jpeg
+
+ 2/11/2017 5:10:03 PM Elapsed time: 00:00:07.5282645 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_122.png to sdad_027.jpeg
+
+ 2/11/2017 5:10:04 PM Elapsed time: 00:00:07.7885366 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_123.png to sdad_028.jpeg
+
+ 2/11/2017 5:10:04 PM Elapsed time: 00:00:08.1446843 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_13.png to sdad_029.jpeg
+
+ 2/11/2017 5:10:04 PM Elapsed time: 00:00:08.4839315 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_14.png to sdad_030.jpeg
+
+ 2/11/2017 5:10:05 PM Elapsed time: 00:00:08.8280277 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_15.png to sdad_031.jpeg
+
+ 2/11/2017 5:10:05 PM Elapsed time: 00:00:09.1874227 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_16.png to sdad_032.jpeg
+
+ 2/11/2017 5:10:05 PM Elapsed time: 00:00:09.5592661 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_17.png to sdad_033.jpeg
+
+ 2/11/2017 5:10:06 PM Elapsed time: 00:00:09.9228275 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_18.png to sdad_034.jpeg
+
+ 2/11/2017 5:10:06 PM Elapsed time: 00:00:10.2843465 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_19.png to sdad_035.jpeg
+
+ 2/11/2017 5:10:07 PM Elapsed time: 00:00:10.6483771 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_2.png to sdad_036.jpeg
+
+ 2/11/2017 5:10:07 PM Elapsed time: 00:00:11.0144466 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_20.png to sdad_037.jpeg
+
+ 2/11/2017 5:10:07 PM Elapsed time: 00:00:11.3748005 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_21.png to sdad_038.jpeg
+
+ 2/11/2017 5:10:08 PM Elapsed time: 00:00:11.7430480 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_22.png to sdad_039.jpeg
+
+ 2/11/2017 5:10:08 PM Elapsed time: 00:00:12.1111495 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_23.png to sdad_040.jpeg
+
+ 2/11/2017 5:10:08 PM Elapsed time: 00:00:12.4757845 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_24.png to sdad_041.jpeg
+
+ 2/11/2017 5:10:09 PM Elapsed time: 00:00:12.8386540 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_25.png to sdad_042.jpeg
+
+ 2/11/2017 5:10:09 PM Elapsed time: 00:00:13.1735442 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_26.png to sdad_043.jpeg
+
+ 2/11/2017 5:10:09 PM Elapsed time: 00:00:13.5125965 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_27.png to sdad_044.jpeg
+
+ 2/11/2017 5:10:10 PM Elapsed time: 00:00:13.8732932 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_28.png to sdad_045.jpeg
+
+ 2/11/2017 5:10:10 PM Elapsed time: 00:00:14.2281119 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_29.png to sdad_046.jpeg
+
+ 2/11/2017 5:10:10 PM Elapsed time: 00:00:14.5803588 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_3.png to sdad_047.jpeg
+
+ 2/11/2017 5:10:11 PM Elapsed time: 00:00:14.9240184 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_30.png to sdad_048.jpeg
+
+ 2/11/2017 5:10:11 PM Elapsed time: 00:00:15.2474507 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_31.png to sdad_049.jpeg
+
+ 2/11/2017 5:10:11 PM Elapsed time: 00:00:15.5609860 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_32.png to sdad_050.jpeg
+
+ 2/11/2017 5:10:12 PM Elapsed time: 00:00:15.7936296 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_33.png to sdad_051.jpeg
+
+ 2/11/2017 5:10:12 PM Elapsed time: 00:00:16.0301190 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_34.png to sdad_052.jpeg
+
+ 2/11/2017 5:10:12 PM Elapsed time: 00:00:16.3847977 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_35.png to sdad_053.jpeg
+
+ 2/11/2017 5:10:13 PM Elapsed time: 00:00:16.7442272 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_36.png to sdad_054.jpeg
+
+ 2/11/2017 5:10:13 PM Elapsed time: 00:00:17.0969696 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_37.png to sdad_055.jpeg
+
+ 2/11/2017 5:10:13 PM Elapsed time: 00:00:17.4520611 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_38.png to sdad_056.jpeg
+
+ 2/11/2017 5:10:14 PM Elapsed time: 00:00:17.8110899 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_39.png to sdad_057.jpeg
+
+ 2/11/2017 5:10:14 PM Elapsed time: 00:00:18.1680959 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_4.png to sdad_058.jpeg
+
+ 2/11/2017 5:10:14 PM Elapsed time: 00:00:18.5188546 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_40.png to sdad_059.jpeg
+
+ 2/11/2017 5:10:15 PM Elapsed time: 00:00:18.8870910 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_41.png to sdad_060.jpeg
+
+ 2/11/2017 5:10:15 PM Elapsed time: 00:00:19.2477328 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_42.png to sdad_061.jpeg
+
+ 2/11/2017 5:10:15 PM Elapsed time: 00:00:19.6060340 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_43.png to sdad_062.jpeg
+
+ 2/11/2017 5:10:16 PM Elapsed time: 00:00:19.9673569 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_44.png to sdad_063.jpeg
+
+ 2/11/2017 5:10:16 PM Elapsed time: 00:00:20.3247591 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_45.png to sdad_064.jpeg
+
+ 2/11/2017 5:10:17 PM Elapsed time: 00:00:20.6654411 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_46.png to sdad_065.jpeg
+
+ 2/11/2017 5:10:17 PM Elapsed time: 00:00:21.0258639 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_47.png to sdad_066.jpeg
+
+ 2/11/2017 5:10:17 PM Elapsed time: 00:00:21.3767910 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_48.png to sdad_067.jpeg
+
+ 2/11/2017 5:10:18 PM Elapsed time: 00:00:21.7285027 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_49.png to sdad_068.jpeg
+
+ 2/11/2017 5:10:18 PM Elapsed time: 00:00:22.0958724 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_5.png to sdad_069.jpeg
+
+ 2/11/2017 5:10:18 PM Elapsed time: 00:00:22.4968087 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_50.png to sdad_070.jpeg
+
+ 2/11/2017 5:10:19 PM Elapsed time: 00:00:22.7790538 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_51.png to sdad_071.jpeg
+
+ 2/11/2017 5:10:19 PM Elapsed time: 00:00:23.0753091 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_52.png to sdad_072.jpeg
+
+ 2/11/2017 5:10:19 PM Elapsed time: 00:00:23.4390126 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_53.png to sdad_073.jpeg
+
+ 2/11/2017 5:10:20 PM Elapsed time: 00:00:23.8063603 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_54.png to sdad_074.jpeg
+
+ 2/11/2017 5:10:20 PM Elapsed time: 00:00:24.1044600 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_55.png to sdad_075.jpeg
+
+ 2/11/2017 5:10:20 PM Elapsed time: 00:00:24.3924594 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_56.png to sdad_076.jpeg
+
+ 2/11/2017 5:10:21 PM Elapsed time: 00:00:24.8064050 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_57.png to sdad_077.jpeg
+
+ 2/11/2017 5:10:21 PM Elapsed time: 00:00:25.1575690 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_58.png to sdad_078.jpeg
+
+ 2/11/2017 5:10:21 PM Elapsed time: 00:00:25.5002195 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_59.png to sdad_079.jpeg
+
+ 2/11/2017 5:10:22 PM Elapsed time: 00:00:25.7853160 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_6.png to sdad_080.jpeg
+
+ 2/11/2017 5:10:22 PM Elapsed time: 00:00:26.0754903 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_60.png to sdad_081.jpeg
+
+ 2/11/2017 5:10:22 PM Elapsed time: 00:00:26.3134611 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_61.png to sdad_082.jpeg
+
+ 2/11/2017 5:10:22 PM Elapsed time: 00:00:26.4121722 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_62.png to sdad_083.jpeg
+
+ 2/11/2017 5:10:23 PM Elapsed time: 00:00:26.6622152 Renamed file C:\Users\Austin\Pictures\Test\DEC2012\HelloThreadTest_63.png to sdad_084.jpeg
+
  

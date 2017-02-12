@@ -43,24 +43,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ImageRenameAndFormatChanger.exe" size="383928">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ImageRenameAndFormatChanger.exe" size="384440">
       <assemblyIdentity name="ImageRenameAndFormatChanger" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>F6+nj30IRORRiRd0QnB0/LOxrZkj+hEkCSfkijfhdCg=</dsig:DigestValue>
+        <dsig:DigestValue>vmL/3LkaNgxdEyUMVXDaZrlmuokAoNoiaykaQ5Cg+RY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="ImageRenameAndFormatChanger.exe.config" size="186">
+  <file name="ImageRenameAndFormatChanger.exe.config" size="180">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>1NgAxCSw4ibTXzWVy7D6Rw60Qih4Dn37KvGhG5Ora/s=</dsig:DigestValue>
+      <dsig:DigestValue>Uvn1/DGiGMkisCg6vwTJ3B0sH43zV+6+7Vz1JKcCRjE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sun_Clipart.ico" size="370070">
